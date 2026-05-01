@@ -1,0 +1,11 @@
+{
+  "split_note": "Time-based holdout: train eligibility_year < 2000; test eligibility_year >= 2000",
+  "train_n": 2439,
+  "test_n": 1299,
+  "train_positives": 232,
+  "test_positives": 49,
+  "best_model": "gradient_boosting",
+  "best_holdout_pr_auc": 0.7211702397979636,
+  "best_holdout_roc_auc": 0.9895836734693877,
+  "features_used": 254
+}
