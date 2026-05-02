@@ -6,7 +6,7 @@
 
 | Member | Role |
 |---|---|
-| Isaac Beers | Data |
+| Isaac Beers | Data Collection & Preparation |
 | Yolanda He | EDA |
 | Qiuting He | Feature Engineering |
 | Rui Lin | Data Pre-processing|
