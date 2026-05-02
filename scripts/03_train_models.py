@@ -17,6 +17,29 @@ if __name__ == "__main__":
         raise SystemExit("Run scripts/02_eda_and_archetypes.py first.")
     df = pd.read_csv(data_path, low_memory=False)
     pool, X, y, feature_cols = split_features(df)
+    MAX_OBSERVED_ELIGIBILITY_YEAR = 2026
+    valid_year_mask = pool["eligibility_year"] <= MAX_OBSERVED_ELIGIBILITY_YEAR
+    if (~valid_year_mask).sum() > 0:
+        print(
+            f"Dropping {(~valid_year_mask).sum()} players with eligibility_year "
+            f"> {MAX_OBSERVED_ELIGIBILITY_YEAR} to avoid labeling future-eligible players as negatives."
+        )
+
+    pool = pool.loc[valid_year_mask].reset_index(drop=True)
+    X = X.loc[valid_year_mask].reset_index(drop=True)
+    y = y.loc[valid_year_mask].reset_index(drop=True)
+
+    leaky_archetype_cols = [
+    c for c in X.columns
+    if c in ["cluster_id", "hier_cluster_id", "pca1", "pca2", "cluster_label"]
+    or c.startswith("cluster_distance_")
+]
+
+if leaky_archetype_cols:
+    print("Dropping pre-split archetype features to avoid leakage:")
+    print(leaky_archetype_cols)
+    X = X.drop(columns=leaky_archetype_cols)
+    feature_cols = [c for c in feature_cols if c not in leaky_archetype_cols]
     holdout_mask = pool["eligibility_year"] >= HOLDOUT_ELIGIBILITY_YEAR
     # Fallback for unusual datasets; not triggered for this Kaggle dataset.
     if holdout_mask.sum() < 100 or y[holdout_mask].sum() < 5:
