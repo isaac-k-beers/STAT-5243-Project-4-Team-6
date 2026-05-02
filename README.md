@@ -118,9 +118,8 @@ The selected final model is **gradient_boosting** because it has the highest hol
 
 | Member | Role |
 |---|---|
-| Person A | Data Engineer & Pipeline Lead — Part 1 |
-| Person B | EDA & Unsupervised Learning Lead — Part 2 |
-| Person C | Feature Engineering & Modeling Lead — Parts 3, 4 |
-| Person D | Evaluation, Communication & Bonus App Lead — Parts 5, 6, 7 |
+| Isaac Beers | Data |
+| Yolanda He | EDA |
+| Qiuting He | Feature Engineering |
+| Rui Lin | Data Pre-processing|
 
-Replace `Person A–D` with actual names before final submission.
