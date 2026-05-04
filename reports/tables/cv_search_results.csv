@@ -1,0 +1,29 @@
+model,rank_test_score,mean_test_score,std_test_score,params
+logistic_regression,1,0.8033459114110585,0.04658731635260409,{'model__C': 0.01}
+logistic_regression,2,0.7778843654364721,0.05756359016536988,{'model__C': 0.1}
+logistic_regression,3,0.7286901244758959,0.06644080298832956,{'model__C': 1.0}
+logistic_regression,4,0.6980903800572695,0.06591223857181458,{'model__C': 10.0}
+random_forest,11,0.8235091801147378,0.042596841787371886,"{'model__n_estimators': 100, 'model__max_depth': None, 'model__min_samples_leaf': 1, 'model__max_features': 'sqrt'}"
+random_forest,1,0.8473233029361381,0.0304913415797534,"{'model__n_estimators': 100, 'model__max_depth': None, 'model__min_samples_leaf': 4, 'model__max_features': 'sqrt'}"
+random_forest,12,0.8218853522365054,0.04052306303574302,"{'model__n_estimators': 100, 'model__max_depth': 10, 'model__min_samples_leaf': 1, 'model__max_features': 'sqrt'}"
+random_forest,3,0.8436598261278876,0.03144079283022973,"{'model__n_estimators': 100, 'model__max_depth': 10, 'model__min_samples_leaf': 4, 'model__max_features': 'sqrt'}"
+random_forest,10,0.8249964410742374,0.0439762889160589,"{'model__n_estimators': 100, 'model__max_depth': 20, 'model__min_samples_leaf': 1, 'model__max_features': 'sqrt'}"
+random_forest,2,0.8473233029361381,0.0304913415797534,"{'model__n_estimators': 100, 'model__max_depth': 20, 'model__min_samples_leaf': 4, 'model__max_features': 'sqrt'}"
+random_forest,7,0.8275292674999466,0.04351050025860034,"{'model__n_estimators': 200, 'model__max_depth': None, 'model__min_samples_leaf': 1, 'model__max_features': 'sqrt'}"
+random_forest,4,0.8436503170442362,0.03216139134054226,"{'model__n_estimators': 200, 'model__max_depth': None, 'model__min_samples_leaf': 4, 'model__max_features': 'sqrt'}"
+random_forest,9,0.8264357911738026,0.04031696819653273,"{'model__n_estimators': 200, 'model__max_depth': 10, 'model__min_samples_leaf': 1, 'model__max_features': 'sqrt'}"
+random_forest,6,0.8433226856327494,0.03340865525209907,"{'model__n_estimators': 200, 'model__max_depth': 10, 'model__min_samples_leaf': 4, 'model__max_features': 'sqrt'}"
+random_forest,8,0.826842798989358,0.043729851706349784,"{'model__n_estimators': 200, 'model__max_depth': 20, 'model__min_samples_leaf': 1, 'model__max_features': 'sqrt'}"
+random_forest,5,0.8436503170442362,0.03216139134054226,"{'model__n_estimators': 200, 'model__max_depth': 20, 'model__min_samples_leaf': 4, 'model__max_features': 'sqrt'}"
+gradient_boosting,11,0.8326023463634016,0.028116343559326542,"{'model__n_estimators': 50, 'model__learning_rate': 0.05, 'model__max_depth': 2}"
+gradient_boosting,12,0.8225452443574163,0.033128834990897006,"{'model__n_estimators': 50, 'model__learning_rate': 0.05, 'model__max_depth': 3}"
+gradient_boosting,6,0.8473074906984449,0.0320006725906736,"{'model__n_estimators': 50, 'model__learning_rate': 0.1, 'model__max_depth': 2}"
+gradient_boosting,10,0.8393053919144468,0.03203255655146941,"{'model__n_estimators': 50, 'model__learning_rate': 0.1, 'model__max_depth': 3}"
+gradient_boosting,3,0.849720478350951,0.03201856768778862,"{'model__n_estimators': 100, 'model__learning_rate': 0.05, 'model__max_depth': 2}"
+gradient_boosting,9,0.8416778646814462,0.030994092987643607,"{'model__n_estimators': 100, 'model__learning_rate': 0.05, 'model__max_depth': 3}"
+gradient_boosting,4,0.8492285177875722,0.031847667215108524,"{'model__n_estimators': 100, 'model__learning_rate': 0.1, 'model__max_depth': 2}"
+gradient_boosting,8,0.8455696407606277,0.028504329515707187,"{'model__n_estimators': 100, 'model__learning_rate': 0.1, 'model__max_depth': 3}"
+gradient_boosting,1,0.8548764917872971,0.029119997568284036,"{'model__n_estimators': 200, 'model__learning_rate': 0.05, 'model__max_depth': 2}"
+gradient_boosting,7,0.8457544723046929,0.03307153535100529,"{'model__n_estimators': 200, 'model__learning_rate': 0.05, 'model__max_depth': 3}"
+gradient_boosting,2,0.8509521941968374,0.0323528116099681,"{'model__n_estimators': 200, 'model__learning_rate': 0.1, 'model__max_depth': 2}"
+gradient_boosting,5,0.8488609444628061,0.027404036063535052,"{'model__n_estimators': 200, 'model__learning_rate': 0.1, 'model__max_depth': 3}"

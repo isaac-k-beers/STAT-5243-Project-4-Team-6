@@ -1,0 +1,11 @@
+grouping,value,n,actual_induction_rate,mean_predicted_probability,top25_share_if_applicable
+primary_role,Hitter,730,0.049315068493150684,0.06813652282279997,
+primary_role,Pitcher,563,0.017761989342806393,0.049879607600966845,
+debut_era,Free-agency,494,0.06680161943319839,0.09020534533155146,
+debut_era,Post-steroid,256,0.0,0.019594423090895114,
+debut_era,Steroid,547,0.025594149908592323,0.053799047075476954,
+cluster_label,Dominant Reliever / Closer,276,0.018115942028985508,0.037124632243930526,
+cluster_label,Power Hitter,217,0.16589861751152074,0.20598842030539888,
+cluster_label,Power Hitter 2,531,0.0,0.01151539494357324,
+cluster_label,Speed / Contact Profile,15,0.0,0.06158386910449617,
+cluster_label,Workhorse Starting Pitcher,260,0.03076923076923077,0.07257448743999392,

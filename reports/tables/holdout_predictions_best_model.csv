@@ -1,0 +1,1300 @@
+playerID,player_name,primary_role,debut_era,cluster_label,inducted,eligibility_year,predicted_probability,predicted_label_050
+clemero02,Roger Clemens,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2012.0,0.9991865945817152,1
+maddugr01,Greg Maddux,Two-Way,Free-agency,Workhorse Starting Pitcher,1,2013.0,0.9982110366087594,1
+martipe02,Pedro Martinez,Pitcher,Free-agency,Workhorse Starting Pitcher,1,2014.0,0.9980758407543101,1
+johnsra05,Randy Johnson,Pitcher,Free-agency,Workhorse Starting Pitcher,1,2014.0,0.9962759360011797,1
+bondsba01,Barry Bonds,Hitter,Free-agency,Power Hitter,0,2012.0,0.9899145841129839,1
+boggswa01,Wade Boggs,Hitter,Free-agency,Power Hitter,1,2004.0,0.984802476099936,1
+sabatcc01,CC Sabathia,Pitcher,Steroid,Workhorse Starting Pitcher,1,2024.0,0.9838951496468016,1
+gwynnto01,Tony Gwynn,Hitter,Free-agency,Power Hitter,1,2006.0,0.9815783185769396,1
+piazzmi01,Mike Piazza,Hitter,Free-agency,Power Hitter,1,2012.0,0.9809311232611574,1
+ramirma02,Manny Ramirez,Hitter,Steroid,Power Hitter,0,2016.0,0.9794741808715819,1
+guerrvl01,Vladimir Guerrero,Hitter,Steroid,Power Hitter,1,2016.0,0.9791425186914671,1
+rodrial01,Alex Rodriguez,Hitter,Steroid,Power Hitter,0,2021.0,0.9693773304983604,1
+riverma01,Mariano Rivera,Pitcher,Steroid,Dominant Reliever / Closer,1,2018.0,0.9674544009538949,1
+smoltjo01,John Smoltz,Two-Way,Free-agency,Workhorse Starting Pitcher,1,2014.0,0.9637701631017618,1
+heltoto01,Todd Helton,Hitter,Steroid,Power Hitter,1,2018.0,0.9620675468155683,1
+alomaro01,Roberto Alomar,Hitter,Free-agency,Power Hitter,1,2009.0,0.9614106696412773,1
+glavito02,Tom Glavine,Two-Way,Free-agency,Workhorse Starting Pitcher,1,2013.0,0.961360652971716,1
+martied01,Edgar Martinez,Hitter,Free-agency,Power Hitter,1,2009.0,0.9604986480652801,1
+griffke02,Ken Griffey,Hitter,Free-agency,Power Hitter,1,2015.0,0.9575301297904449,1
+hallaro01,Roy Halladay,Pitcher,Steroid,Workhorse Starting Pitcher,1,2018.0,0.9499822833070424,1
+suzukic01,Ichiro Suzuki,Hitter,Steroid,Power Hitter,1,2024.0,0.9499717677811915,1
+molitpa01,Paul Molitor,Hitter,Free-agency,Power Hitter,1,2003.0,0.9361851629373025,1
+winfida01,Dave Winfield,Hitter,Expansion,Power Hitter,1,2000.0,0.9337763098223684,1
+mussimi01,Mike Mussina,Pitcher,Free-agency,Workhorse Starting Pitcher,1,2013.0,0.9310030140638945,1
+eckerde01,Dennis Eckersley,Pitcher,Expansion,Dominant Reliever / Closer,1,2003.0,0.9142172264357977,1
+ripkeca01,Cal Ripken,Hitter,Free-agency,Power Hitter,1,2006.0,0.8972059443616682,1
+ortizda01,David Ortiz,Hitter,Steroid,Power Hitter,1,2021.0,0.8922642894575481,1
+rodriiv01,Ivan Rodriguez,Hitter,Free-agency,Power Hitter,1,2016.0,0.8891660995259487,1
+puckeki01,Kirby Puckett,Hitter,Free-agency,Power Hitter,1,2000.0,0.8846898172817959,1
+smithoz01,Ozzie Smith,Hitter,Free-agency,Power Hitter,1,2001.0,0.8649530022834305,1
+walkela01,Larry Walker,Hitter,Free-agency,Power Hitter,1,2010.0,0.8627446908228862,1
+sandbry01,Ryne Sandberg,Hitter,Free-agency,Power Hitter,1,2002.0,0.8404370704079183,1
+larkiba01,Barry Larkin,Hitter,Free-agency,Power Hitter,1,2009.0,0.827751875440451,1
+henderi01,Rickey Henderson,Hitter,Free-agency,Power Hitter,1,2008.0,0.8182531513885337,1
+sosasa01,Sammy Sosa,Hitter,Free-agency,Power Hitter,0,2012.0,0.7983421904176593,1
+mcgrifr01,Fred McGriff,Hitter,Free-agency,Power Hitter,1,2009.0,0.7974515671077304,1
+rodrifr03,Francisco Rodriguez,Pitcher,Steroid,Dominant Reliever / Closer,0,2022.0,0.7928829344416947,1
+schilcu01,Curt Schilling,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2012.0,0.7884245218565012,1
+sheffga01,Gary Sheffield,Hitter,Free-agency,Power Hitter,0,2014.0,0.7753294027614582,1
+hoffmtr01,Trevor Hoffman,Pitcher,Steroid,Dominant Reliever / Closer,1,2015.0,0.7548654873958529,1
+wellsda01,David Wells,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2012.0,0.7414761710625453,1
+mcgwima01,Mark McGwire,Hitter,Free-agency,Power Hitter,0,2006.0,0.7232480885222596,1
+beltrca01,Carlos Beltran,Hitter,Steroid,Power Hitter,0,2022.0,0.722913813933557,1
+pettian01,Andy Pettitte,Pitcher,Steroid,Workhorse Starting Pitcher,0,2018.0,0.7167833282677646,1
+bagweje01,Jeff Bagwell,Hitter,Free-agency,Power Hitter,1,2010.0,0.7040636156785137,1
+cansejo01,Jose Canseco,Hitter,Free-agency,Speed / Contact Profile,0,2006.0,0.7031273203598444,1
+jonesch06,Chipper Jones,Hitter,Steroid,Power Hitter,1,2017.0,0.7018048706652231,1
+jeterde01,Derek Jeter,Hitter,Steroid,Power Hitter,1,2019.0,0.6924998711977984,1
+biggicr01,Craig Biggio,Hitter,Free-agency,Power Hitter,1,2012.0,0.6852123031621588,1
+soriaal01,Alfonso Soriano,Hitter,Steroid,Power Hitter,0,2019.0,0.6773101069082947,1
+murraed02,Eddie Murray,Hitter,Free-agency,Power Hitter,1,2002.0,0.6209526321727625,1
+brownke01,Kevin Brown,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2010.0,0.5958701417902738,1
+colonba01,Bartolo Colon,Pitcher,Steroid,Workhorse Starting Pitcher,0,2023.0,0.5700402321371661,1
+thomeji01,Jim Thome,Hitter,Free-agency,Power Hitter,1,2017.0,0.5487601727416472,1
+hollima01,Matt Holliday,Hitter,Steroid,Power Hitter,0,2023.0,0.5364549019797287,1
+dawsoan01,Andre Dawson,Hitter,Free-agency,Power Hitter,1,2001.0,0.5070446331063336,1
+nathajo01,Joe Nathan,Pitcher,Steroid,Dominant Reliever / Closer,0,2021.0,0.4967202391913184,0
+thomafr04,Frank Thomas,Hitter,Free-agency,Power Hitter,1,2013.0,0.4692132265071154,0
+lestejo01,Jon Lester,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2026.0,0.4280015646174076,0
+renteed01,Edgar Renteria,Hitter,Steroid,Power Hitter,0,2016.0,0.4260001373361497,0
+moyerja01,Jamie Moyer,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2017.0,0.4115404599595125,0
+giambja01,Jason Giambi,Hitter,Steroid,Power Hitter,0,2019.0,0.40798933468382215,0
+ordonma01,Magglio Ordonez,Hitter,Steroid,Power Hitter,0,2016.0,0.3910031499804387,0
+martide01,Dennis Martinez,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2003.0,0.3790426284972947,0
+gonzaju03,Juan Gonzalez,Hitter,Free-agency,Power Hitter,0,2010.0,0.37634252169569304,0
+raineti01,Tim Raines,Hitter,Free-agency,Power Hitter,1,2007.0,0.37225003597003087,0
+hernaro01,Roberto Hernandez,Pitcher,Free-agency,Dominant Reliever / Closer,0,2012.0,0.3665918507710194,0
+beckejo02,Josh Beckett,Pitcher,Steroid,Workhorse Starting Pitcher,0,2019.0,0.36631160220561965,0
+hernafe02,Felix Hernandez,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2024.0,0.3602982906065137,0
+kentje01,Jeff Kent,Hitter,Free-agency,Power Hitter,1,2013.0,0.35005673989621744,0
+berkmla01,Lance Berkman,Hitter,Steroid,Power Hitter,0,2018.0,0.3413199183515442,0
+smithle02,Lee Smith,Pitcher,Free-agency,Dominant Reliever / Closer,1,2002.0,0.33125782346594834,0
+rolliji01,Jimmy Rollins,Hitter,Steroid,Power Hitter,0,2021.0,0.3221772732393366,0
+francju01,Julio Franco,Hitter,Free-agency,Power Hitter,0,2012.0,0.31201187100691413,0
+vizquom01,Omar Vizquel,Hitter,Free-agency,Power Hitter,0,2017.0,0.30258234616362284,0
+stantmi02,Mike Stanton,Pitcher,Free-agency,Power Hitter 2,0,2012.0,0.30025881017597583,0
+santajo01,Johan Santana,Pitcher,Steroid,Workhorse Starting Pitcher,0,2017.0,0.29629036467471254,0
+oswalro01,Roy Oswalt,Pitcher,Steroid,Workhorse Starting Pitcher,0,2018.0,0.29554175022472357,0
+mattido01,Don Mattingly,Hitter,Free-agency,Power Hitter,0,2000.0,0.2933528511162024,0
+palmera01,Rafael Palmeiro,Hitter,Free-agency,Power Hitter,0,2010.0,0.2834978514938336,0
+trammal01,Alan Trammell,Hitter,Free-agency,Power Hitter,1,2001.0,0.27360087447209597,0
+aloumo01,Moises Alou,Hitter,Free-agency,Power Hitter,0,2013.0,0.27155273006156333,0
+wagnebi02,Billy Wagner,Pitcher,Steroid,Dominant Reliever / Closer,1,2015.0,0.25774443538366487,0
+edmonji01,Jim Edmonds,Hitter,Steroid,Power Hitter,0,2015.0,0.24841467615924392,0
+delgaca01,Carlos Delgado,Hitter,Steroid,Power Hitter,0,2014.0,0.24635441039889086,0
+gonzami02,Mike Gonzalez,Pitcher,Steroid,Power Hitter 2,0,2018.0,0.2399904694733598,0
+cottsne01,Neal Cotts,Pitcher,Steroid,Power Hitter 2,0,2020.0,0.22349196012991487,0
+rolensc01,Scott Rolen,Hitter,Steroid,Power Hitter,1,2017.0,0.21956022826375593,0
+papeljo01,Jonathan Papelbon,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2021.0,0.2137274913806412,0
+belleal01,Albert Belle,Hitter,Free-agency,Power Hitter,0,2005.0,0.21299778395122446,0
+buehrma01,Mark Buehrle,Pitcher,Steroid,Workhorse Starting Pitcher,0,2020.0,0.20818207795859806,0
+gonzalu01,Luis Gonzalez,Hitter,Free-agency,Power Hitter,0,2013.0,0.20221640181184436,0
+valvejo01,Jose Valverde,Pitcher,Steroid,Dominant Reliever / Closer,0,2019.0,0.19859966620815564,0
+beltrad01,Adrian Beltre,Hitter,Steroid,Power Hitter,1,2023.0,0.19106534425512253,0
+fieldpr01,Prince Fielder,Hitter,Post-steroid,Power Hitter,0,2021.0,0.18771206943504573,0
+ohmanwi01,Will Ohman,Pitcher,Steroid,Power Hitter 2,0,2017.0,0.18617646099056195,0
+campsh01,Shawn Camp,Pitcher,Steroid,Power Hitter 2,0,2019.0,0.17905965424068762,0
+yanes01,Esteban Yan,Pitcher,Steroid,Power Hitter,0,2011.0,0.17905965424068762,0
+lyonbr01,Brandon Lyon,Pitcher,Steroid,Power Hitter,0,2018.0,0.17905965424068762,0
+francjo01,John Franco,Pitcher,Free-agency,Dominant Reliever / Closer,0,2010.0,0.1777127737454296,0
+whitalo01,Lou Whitaker,Hitter,Free-agency,Power Hitter,0,2000.0,0.1719228131637954,0
+baineha01,Harold Baines,Hitter,Free-agency,Power Hitter,1,2006.0,0.1717498192242044,0
+utleych01,Chase Utley,Hitter,Steroid,Power Hitter,0,2023.0,0.1678499261860655,0
+loftoke01,Kenny Lofton,Hitter,Free-agency,Power Hitter,0,2012.0,0.1678270028403357,0
+hudsoti01,Tim Hudson,Pitcher,Steroid,Workhorse Starting Pitcher,0,2020.0,0.16005962458873302,0
+galaran01,Andres Galarraga,Hitter,Free-agency,Power Hitter,0,2009.0,0.15794519704694696,0
+leecl02,Cliff Lee,Pitcher,Steroid,Workhorse Starting Pitcher,0,2019.0,0.15788842700614647,0
+goodedw01,Dwight Gooden,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2005.0,0.15758206541758388,0
+grissma02,Marquis Grissom,Hitter,Free-agency,Power Hitter,0,2010.0,0.15475721519416502,0
+garcino01,Nomar Garciaparra,Hitter,Steroid,Power Hitter,0,2014.0,0.15446270461005346,0
+parrila02,Lance Parrish,Hitter,Free-agency,Power Hitter,0,2000.0,0.1529329390240555,0
+grandcu01,Curtis Granderson,Hitter,Steroid,Power Hitter,0,2024.0,0.1505345443777067,0
+tejadmi01,Miguel Tejada,Hitter,Steroid,Power Hitter,0,2018.0,0.1490642531393624,0
+braunry02,Ryan Braun,Hitter,Post-steroid,Power Hitter,0,2025.0,0.14041123255377713,0
+damonjo01,Johnny Damon,Hitter,Steroid,Power Hitter,0,2017.0,0.13967823798747409,0
+abreubo01,Bobby Abreu,Hitter,Steroid,Power Hitter,0,2019.0,0.13787538923219278,0
+hershor01,Orel Hershiser,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2005.0,0.13710773506491378,0
+furcara01,Rafael Furcal,Hitter,Steroid,Power Hitter,0,2019.0,0.13615080498820115,0
+clarkwi02,Will Clark,Hitter,Free-agency,Power Hitter,0,2005.0,0.1355912279086167,0
+strawda01,Darryl Strawberry,Hitter,Free-agency,Power Hitter,0,2004.0,0.1345596576772725,0
+konerpa01,Paul Konerko,Hitter,Steroid,Power Hitter,0,2019.0,0.13330635553973194,0
+knoblch01,Chuck Knoblauch,Hitter,Free-agency,Power Hitter,0,2007.0,0.13155504361319212,0
+gantro01,Ron Gant,Hitter,Free-agency,Power Hitter,0,2008.0,0.12348150782893157,0
+watsoto01,Tony Watson,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.12027205078789069,0
+fernato01,Tony Fernandez,Hitter,Free-agency,Power Hitter,0,2006.0,0.12002007873938714,0
+madsory01,Ryan Madson,Pitcher,Steroid,Dominant Reliever / Closer,0,2023.0,0.11420879311803313,0
+burksel01,Ellis Burks,Hitter,Free-agency,Power Hitter,0,2009.0,0.1097283917717954,0
+crawfca02,Carl Crawford,Hitter,Steroid,Power Hitter,0,2021.0,0.10156915238357327,0
+finlest01,Steve Finley,Hitter,Free-agency,Power Hitter,0,2012.0,0.10123100835553597,0
+coneda01,David Cone,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2008.0,0.09473215369009737,0
+bellja01,Jay Bell,Hitter,Free-agency,Power Hitter,0,2008.0,0.09356579086506715,0
+bonilbo01,Bobby Bonilla,Hitter,Free-agency,Speed / Contact Profile,0,2006.0,0.08896759129567601,0
+rogerke01,Kenny Rogers,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2013.0,0.08859520859186414,0
+gilesbr02,Brian Giles,Hitter,Steroid,Power Hitter,0,2014.0,0.08673267868163409,0
+durhara01,Ray Durham,Hitter,Steroid,Power Hitter,0,2013.0,0.08518857371049088,0
+youngmi02,Michael Young,Hitter,Steroid,Power Hitter,0,2018.0,0.08449525705218622,0
+olerujo01,John Olerud,Hitter,Free-agency,Power Hitter,0,2010.0,0.08404341104789288,0
+neshepa01,Pat Neshek,Pitcher,Post-steroid,Power Hitter 2,0,2024.0,0.08003355111934514,0
+wakefti01,Tim Wakefield,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2016.0,0.08003216336945455,0
+mauerjo01,Joe Mauer,Hitter,Steroid,Power Hitter,1,2023.0,0.07649325927917835,0
+butlebr01,Brett Butler,Hitter,Free-agency,Power Hitter,0,2002.0,0.07603265818813819,0
+stiebda01,Dave Stieb,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2003.0,0.07601660669423971,0
+oroscje01,Jesse Orosco,Pitcher,Free-agency,Dominant Reliever / Closer,0,2008.0,0.07593488008429841,0
+gibsoki01,Kirk Gibson,Hitter,Free-agency,Power Hitter,0,2000.0,0.07554513334406339,0
+cartejo01,Joe Carter,Hitter,Free-agency,Power Hitter,0,2003.0,0.07503662999966172,0
+poseybu01,Buster Posey,Hitter,Post-steroid,Power Hitter,0,2026.0,0.07363163812500267,0
+hunteto01,Torii Hunter,Hitter,Steroid,Power Hitter,0,2020.0,0.07143535046602359,0
+hamelco01,Cole Hamels,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2025.0,0.07095623094823493,0
+valenfe01,Fernando Valenzuela,Two-Way,Free-agency,Workhorse Starting Pitcher,0,2002.0,0.07053742619083556,0
+colemvi01,Vince Coleman,Hitter,Free-agency,Power Hitter 2,0,2002.0,0.07047680539340222,0
+davisch01,Chili Davis,Hitter,Free-agency,Power Hitter,0,2004.0,0.06799374605308414,0
+teixema01,Mark Teixeira,Hitter,Steroid,Power Hitter,0,2021.0,0.0674239375258101,0
+kinslia01,Ian Kinsler,Hitter,Post-steroid,Power Hitter,0,2024.0,0.06693294976775684,0
+victosh01,Shane Victorino,Hitter,Steroid,Power Hitter 2,0,2020.0,0.06556478907702208,0
+anderga01,Garret Anderson,Hitter,Steroid,Power Hitter,0,2015.0,0.06539692855889627,0
+willima04,Matt Williams,Hitter,Free-agency,Power Hitter,0,2008.0,0.06525472808278981,0
+wrighda03,David Wright,Hitter,Steroid,Power Hitter,0,2023.0,0.06522475228765469,0
+jeffrje01,Jeremy Jeffress,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2025.0,0.06508829581889533,0
+magnami01,Mike Magnante,Pitcher,Free-agency,Power Hitter 2,0,2007.0,0.06190933050027333,0
+jacksmi02,Michael Jackson,Pitcher,Free-agency,Dominant Reliever / Closer,0,2009.0,0.06145424175753262,0
+jonesan01,Andruw Jones,Hitter,Steroid,Power Hitter,0,2017.0,0.06032057249316399,0
+posadjo01,Jorge Posada,Hitter,Steroid,Power Hitter,0,2016.0,0.060230160199957965,0
+carpech01,Chris Carpenter,Pitcher,Steroid,Workhorse Starting Pitcher,0,2017.0,0.05979500758363041,0
+ibanera01,Raul Ibanez,Hitter,Steroid,Power Hitter,0,2019.0,0.05859618706054089,0
+gaettga01,Gary Gaetti,Hitter,Free-agency,Power Hitter,0,2005.0,0.05848406470658514,0
+henketo01,Tom Henke,Pitcher,Free-agency,Dominant Reliever / Closer,0,2000.0,0.05740351628318674,0
+crainje01,Jesse Crain,Pitcher,Steroid,Dominant Reliever / Closer,0,2018.0,0.05610014039323271,0
+kruegbi01,Bill Krueger,Pitcher,Free-agency,Power Hitter 2,0,2000.0,0.055574400868823884,0
+gagneer01,Eric Gagne,Pitcher,Steroid,Dominant Reliever / Closer,0,2013.0,0.05532547935804637,0
+garceri01,Rich Garces,Pitcher,Free-agency,Dominant Reliever / Closer,0,2007.0,0.053909466710478075,0
+moylape01,Peter Moylan,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2023.0,0.053909466710478075,0
+mccarda01,Dave McCarty,Hitter,Steroid,Power Hitter 2,0,2010.0,0.053598894989298866,0
+adamsmi03,Mike Adams,Pitcher,Steroid,Dominant Reliever / Closer,0,2019.0,0.053598894989298866,0
+foulkke01,Keith Foulke,Pitcher,Steroid,Dominant Reliever / Closer,0,2013.0,0.053598894989298866,0
+betanra01,Rafael Betancourt,Pitcher,Steroid,Dominant Reliever / Closer,0,2020.0,0.053598894989298866,0
+vinceni01,Nick Vincent,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.053598894989298866,0
+ellsbja01,Jacoby Ellsbury,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.051446883550072244,0
+wettejo01,John Wetteland,Pitcher,Free-agency,Dominant Reliever / Closer,0,2005.0,0.050053297750277226,0
+uptonbj01,B. J. Upton,Hitter,Steroid,Power Hitter 2,0,2021.0,0.0498349560611177,0
+soriara01,Rafael Soriano,Pitcher,Steroid,Dominant Reliever / Closer,0,2020.0,0.0492136138882971,0
+putzjj01,J. J. Putz,Pitcher,Steroid,Dominant Reliever / Closer,0,2019.0,0.0492136138882971,0
+harriwi02,Will Harris,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.0492136138882971,0
+streehu01,Huston Street,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2022.0,0.04698779938434224,0
+ramirar01,Aramis Ramirez,Hitter,Steroid,Power Hitter,0,2020.0,0.046775453746926196,0
+plesada01,Dan Plesac,Pitcher,Free-agency,Dominant Reliever / Closer,0,2008.0,0.04652182510545626,0
+powelja04,Jay Powell,Pitcher,Steroid,Dominant Reliever / Closer,0,2010.0,0.04638841969507641,0
+myersra01,Randy Myers,Pitcher,Free-agency,Dominant Reliever / Closer,0,2003.0,0.04632847575314983,0
+soriajo01,Joakim Soria,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.04550888041783223,0
+percitr01,Troy Percival,Pitcher,Steroid,Dominant Reliever / Closer,0,2014.0,0.04550888041783223,0
+beckro01,Rod Beck,Pitcher,Free-agency,Dominant Reliever / Closer,0,2009.0,0.04550888041783223,0
+howarry01,Ryan Howard,Hitter,Steroid,Power Hitter,0,2021.0,0.044915527165491916,0
+willibe02,Bernie Williams,Hitter,Free-agency,Power Hitter,0,2011.0,0.04484107664808075,0
+reyesal01,Alberto Reyes,Pitcher,Steroid,Dominant Reliever / Closer,0,2013.0,0.044276468393260396,0
+whitede03,Devon White,Hitter,Free-agency,Power Hitter,0,2006.0,0.044004865596227585,0
+worreto01,Todd Worrell,Pitcher,Free-agency,Dominant Reliever / Closer,0,2002.0,0.04371910940204823,0
+vazquja01,Javier Vazquez,Pitcher,Steroid,Workhorse Starting Pitcher,0,2016.0,0.04319174127594065,0
+lidgebr01,Brad Lidge,Pitcher,Steroid,Dominant Reliever / Closer,0,2017.0,0.04274468607075117,0
+phillbr01,Brandon Phillips,Hitter,Steroid,Power Hitter,0,2023.0,0.04271205699264971,0
+urbinug01,Ugueth Urbina,Pitcher,Steroid,Dominant Reliever / Closer,0,2010.0,0.042338500354656236,0
+nenro01,Robb Nen,Pitcher,Steroid,Dominant Reliever / Closer,0,2007.0,0.042338500354656236,0
+ramirha01,Hanley Ramirez,Hitter,Post-steroid,Power Hitter,0,2024.0,0.042128550432234985,0
+finlech01,Chuck Finley,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2007.0,0.04203606531010902,0
+tulowtr01,Troy Tulowitzki,Hitter,Post-steroid,Power Hitter,0,2024.0,0.041499032149237766,0
+peavyja01,Jake Peavy,Pitcher,Steroid,Workhorse Starting Pitcher,0,2021.0,0.04039431518734263,0
+cookde01,Dennis Cook,Pitcher,Free-agency,Power Hitter 2,0,2007.0,0.039835006405412515,0
+davisch02,Chris Davis,Hitter,Post-steroid,Power Hitter,0,2025.0,0.039157871130468334,0
+alomasa02,Sandy Alomar,Hitter,Free-agency,Power Hitter,0,2012.0,0.03867155003438005,0
+encared01,Edwin Encarnacion,Hitter,Post-steroid,Power Hitter,0,2025.0,0.03825005340964223,0
+santibe01,Benito Santiago,Hitter,Free-agency,Power Hitter,0,2010.0,0.03778419508331793,0
+chambjo03,Joba Chamberlain,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2021.0,0.03766009576810811,0
+pierzaj01,A. J. Pierzynski,Hitter,Steroid,Power Hitter,0,2021.0,0.0372240019660613,0
+sierrru01,Ruben Sierra,Hitter,Free-agency,Power Hitter,0,2011.0,0.03679468730167841,0
+lopezja02,Javier Lopez,Pitcher,Steroid,Dominant Reliever / Closer,0,2021.0,0.036721290601346344,0
+penato01,Tony Peña,Hitter,Free-agency,Power Hitter,0,2002.0,0.03589300382277609,0
+weaveje02,Jered Weaver,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2022.0,0.03542862281604229,0
+oflaher01,Eric O'Flaherty,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2022.0,0.035066370003684434,0
+lackejo01,John Lackey,Pitcher,Steroid,Workhorse Starting Pitcher,0,2022.0,0.03470268175607561,0
+vaughmo01,Mo Vaughn,Hitter,Free-agency,Power Hitter,0,2008.0,0.03396242244377078,0
+ausmubr01,Brad Ausmus,Hitter,Steroid,Power Hitter,0,2015.0,0.03368095379761983,0
+blevije01,Jerry Blevins,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2024.0,0.03319484619000864,0
+dunnad01,Adam Dunn,Hitter,Steroid,Power Hitter,0,2019.0,0.03277322572311942,0
+daviswa01,Wade Davis,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.03257061628763409,0
+pierrju01,Juan Pierre,Hitter,Steroid,Power Hitter 2,0,2018.0,0.03250354771919162,0
+leeca01,Carlos Lee,Hitter,Steroid,Power Hitter,0,2017.0,0.03248726100923019,0
+mccanbr01,Brian McCann,Hitter,Post-steroid,Power Hitter,0,2024.0,0.03244395954483882,0
+leede02,Derrek Lee,Hitter,Steroid,Power Hitter,0,2016.0,0.03244162132613134,0
+jonesdo01,Doug Jones,Pitcher,Free-agency,Dominant Reliever / Closer,0,2005.0,0.032182485227025735,0
+anderbr01,Brady Anderson,Hitter,Free-agency,Power Hitter,0,2007.0,0.03183758031479652,0
+veresda01,Dave Veres,Pitcher,Steroid,Dominant Reliever / Closer,0,2008.0,0.031736662746849456,0
+saberbr01,Bret Saberhagen,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2006.0,0.03119680629591879,0
+sandere02,Reggie Sanders,Hitter,Free-agency,Power Hitter,0,2012.0,0.031137321692163496,0
+reynosh01,Shane Reynolds,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2009.0,0.031110665277857576,0
+camermi01,Mike Cameron,Hitter,Steroid,Power Hitter,0,2016.0,0.031092804255483195,0
+jonesna01,Nate Jones,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.03052144309381434,0
+perkigl01,Glen Perkins,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2022.0,0.03052144309381434,0
+assenpa01,Paul Assenmacher,Pitcher,Free-agency,Dominant Reliever / Closer,0,2004.0,0.03052144309381434,0
+benitar01,Armando Benitez,Pitcher,Steroid,Dominant Reliever / Closer,0,2013.0,0.030079109303425854,0
+harenda01,Dan Haren,Pitcher,Steroid,Workhorse Starting Pitcher,0,2020.0,0.0295652018641337,0
+bautijo02,Jose Bautista,Hitter,Steroid,Power Hitter,0,2023.0,0.029548388961377278,0
+surhobj01,B. J. Surhoff,Hitter,Free-agency,Power Hitter,0,2010.0,0.029527806300433095,0
+linceti01,Tim Lincecum,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2021.0,0.02940102705758365,0
+reyesjo01,Jose Reyes,Hitter,Steroid,Speed / Contact Profile,0,2023.0,0.028961249589590787,0
+howest01,Steve Howe,Pitcher,Free-agency,Dominant Reliever / Closer,0,2001.0,0.028959839657544197,0
+greensh01,Shawn Green,Hitter,Steroid,Power Hitter,0,2012.0,0.028917818625472623,0
+boonebr01,Bret Boone,Hitter,Free-agency,Power Hitter,0,2010.0,0.028879782295689473,0
+linebsc01,Scott Linebrink,Pitcher,Steroid,Dominant Reliever / Closer,0,2016.0,0.028533116395471337,0
+hernali01,Livan Hernandez,Two-Way,Steroid,Workhorse Starting Pitcher,0,2017.0,0.028111469691483454,0
+gonzaad01,Adrian Gonzalez,Hitter,Steroid,Power Hitter,0,2023.0,0.02766795601661185,0
+santaer01,Ervin Santana,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2026.0,0.027473569223050852,0
+shielja02,James Shields,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2023.0,0.027473569223050852,0
+haranaa01,Aaron Harang,Pitcher,Steroid,Workhorse Starting Pitcher,0,2020.0,0.027473569223050852,0
+nixonot01,Otis Nixon,Hitter,Free-agency,Power Hitter 2,0,2004.0,0.027253504154728762,0
+mahayro01,Ron Mahay,Pitcher,Steroid,Power Hitter 2,0,2015.0,0.02708664919674815,0
+phillto02,Tony Phillips,Hitter,Free-agency,Power Hitter,0,2004.0,0.02669424853320641,0
+shueypa01,Paul Shuey,Pitcher,Steroid,Dominant Reliever / Closer,0,2012.0,0.02645192486773563,0
+avilalu01,Luis Avilan,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.02645192486773563,0
+alberma01,Matt Albers,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2024.0,0.02629816884172046,0
+keyji01,Jimmy Key,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2003.0,0.026054441509013815,0
+aguilri01,Rick Aguilera,Pitcher,Free-agency,Dominant Reliever / Closer,0,2005.0,0.025821012012514407,0
+pomerdr01,Drew Pomeranz,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.025513061969055204,0
+gracema01,Mark Grace,Hitter,Free-agency,Power Hitter,0,2008.0,0.025030683894358637,0
+markani01,Nick Markakis,Hitter,Post-steroid,Power Hitter,0,2025.0,0.02459033794471549,0
+millwke01,Kevin Millwood,Pitcher,Steroid,Workhorse Starting Pitcher,0,2017.0,0.024535678571565734,0
+lowede01,Derek Lowe,Pitcher,Steroid,Workhorse Starting Pitcher,0,2018.0,0.024308417849813618,0
+oneilpa01,Paul O'Neill,Hitter,Free-agency,Power Hitter,0,2006.0,0.02405588766279214,0
+radinsc01,Scott Radinsky,Pitcher,Free-agency,Dominant Reliever / Closer,0,2006.0,0.023754038590468533,0
+cordefr01,Francisco Cordero,Pitcher,Steroid,Dominant Reliever / Closer,0,2017.0,0.023704005768505846,0
+kleskry01,Ryan Klesko,Hitter,Free-agency,Power Hitter,0,2012.0,0.023540545513892504,0
+stewada01,Dave Stewart,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2000.0,0.023201590367890497,0
+zieglbr01,Brad Ziegler,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2023.0,0.02306026967531698,0
+corsiji01,Jim Corsi,Pitcher,Free-agency,Dominant Reliever / Closer,0,2004.0,0.02306026967531698,0
+ontivst02,Steve Ontiveros,Pitcher,Free-agency,Dominant Reliever / Closer,0,2005.0,0.02306026967531698,0
+kingra01,Ray King,Pitcher,Steroid,Dominant Reliever / Closer,0,2013.0,0.02306026967531698,0
+klinest02,Steve Kline,Pitcher,Steroid,Dominant Reliever / Closer,0,2012.0,0.02306026967531698,0
+mcgeewi01,Willie McGee,Hitter,Free-agency,Power Hitter,0,2004.0,0.022971624427741172,0
+penaal01,Alejandro Peña,Pitcher,Free-agency,Dominant Reliever / Closer,0,2001.0,0.02291307980603508,0
+howrybo01,Bob Howry,Pitcher,Steroid,Dominant Reliever / Closer,0,2015.0,0.02291307980603508,0
+langsma01,Mark Langston,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2004.0,0.02209759670989147,0
+isrinja01,Jason Isringhausen,Pitcher,Steroid,Dominant Reliever / Closer,0,2017.0,0.02207159162710942,0
+zitoba01,Barry Zito,Pitcher,Steroid,Workhorse Starting Pitcher,0,2020.0,0.021941441222733716,0
+betande01,Dellin Betances,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.021624873449874717,0
+petityu01,Yusmeiro Petit,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.021624873449874717,0
+gregelu01,Luke Gregerson,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2024.0,0.021624873449874717,0
+kendaja01,Jason Kendall,Hitter,Steroid,Power Hitter,0,2015.0,0.021564659108668754,0
+mendora01,Ramiro Mendoza,Pitcher,Steroid,Dominant Reliever / Closer,0,2010.0,0.021381053257840187,0
+liriafr01,Francisco Liriano,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2024.0,0.0213165284151893,0
+sandesc01,Scott Sanderson,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2001.0,0.02124604864216161,0
+swindgr01,Greg Swindell,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2007.0,0.02124604864216161,0
+bauertr01,Trevor Bauer,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2026.0,0.020753987611840635,0
+pooleji02,Jim Poole,Pitcher,Free-agency,Dominant Reliever / Closer,0,2005.0,0.020298385516390228,0
+drewjd01,J. D. Drew,Hitter,Steroid,Power Hitter,0,2016.0,0.02019080016813872,0
+thornma01,Matt Thornton,Pitcher,Steroid,Dominant Reliever / Closer,0,2021.0,0.020083365198829806,0
+broxtjo01,Jonathan Broxton,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2022.0,0.020083365198829806,0
+bellhe01,Heath Bell,Pitcher,Steroid,Dominant Reliever / Closer,0,2019.0,0.020083365198829806,0
+millean01,Andrew Miller,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.020083365198829806,0
+herreke01,Kelvin Herrera,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2025.0,0.020083365198829806,0
+rhodear01,Arthur Rhodes,Pitcher,Free-agency,Dominant Reliever / Closer,0,2016.0,0.01983235285700895,0
+murphro01,Rob Murphy,Pitcher,Free-agency,Dominant Reliever / Closer,0,2000.0,0.019777861723351154,0
+rodnefe01,Fernando Rodney,Pitcher,Steroid,Dominant Reliever / Closer,0,2024.0,0.019765819144177348,0
+happja01,J. A. Happ,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2026.0,0.01971973765859074,0
+garcifr02,Freddy Garcia,Pitcher,Steroid,Workhorse Starting Pitcher,0,2018.0,0.019347399238331574,0
+chaveer01,Eric Chavez,Hitter,Steroid,Power Hitter,0,2019.0,0.01933324484604199,0
+nomohi01,Hideo Nomo,Pitcher,Steroid,Workhorse Starting Pitcher,0,2013.0,0.019304906363374168,0
+olsongr01,Gregg Olson,Pitcher,Free-agency,Power Hitter,0,2006.0,0.019013357893999,0
+frasoja01,Jason Frasor,Pitcher,Steroid,Power Hitter 2,0,2020.0,0.018929127356879853,0
+quantpa01,Paul Quantrill,Pitcher,Free-agency,Dominant Reliever / Closer,0,2010.0,0.018929127356879853,0
+eichhma01,Mark Eichhorn,Pitcher,Free-agency,Dominant Reliever / Closer,0,2001.0,0.018929127356879853,0
+buhneja01,Jay Buhner,Hitter,Free-agency,Power Hitter,0,2006.0,0.01869360906720721,0
+appieke01,Kevin Appier,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2009.0,0.018680214807973744,0
+arrieja01,Jake Arrieta,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2026.0,0.018381529017301633,0
+maynebr01,Brent Mayne,Hitter,Free-agency,Power Hitter 2,0,2009.0,0.018105610763624675,0
+carragi01,Giovanni Carrara,Pitcher,Steroid,Dominant Reliever / Closer,0,2011.0,0.018105610763624675,0
+fernasi01,Sid Fernandez,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2002.0,0.018021267513320637,0
+martira02,Ramon Martinez,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2006.0,0.01796238108913027,0
+dunstsh01,Shawon Dunston,Hitter,Free-agency,Power Hitter,0,2007.0,0.017944843303112717,0
+sheetbe01,Ben Sheets,Pitcher,Steroid,Workhorse Starting Pitcher,0,2017.0,0.01791339374363727,0
+violafr01,Frank Viola,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2001.0,0.017734024897215404,0
+garcija01,Santiago Casilla,Pitcher,Steroid,Dominant Reliever / Closer,0,2023.0,0.017686963606961034,0
+seaneru01,Rudy Seanez,Pitcher,Free-agency,Dominant Reliever / Closer,0,2013.0,0.017485664289799422,0
+rodriri02,Rich Rodriguez,Pitcher,Free-agency,Dominant Reliever / Closer,0,2008.0,0.01740757612761178,0
+rodrife01,Felix Rodriguez,Pitcher,Steroid,Power Hitter 2,0,2011.0,0.01740757612761178,0
+claytro01,Royce Clayton,Hitter,Free-agency,Power Hitter,0,2012.0,0.01740725201967271,0
+hawkila01,LaTroy Hawkins,Pitcher,Steroid,Dominant Reliever / Closer,0,2020.0,0.017376335121067364,0
+ryanbj01,B. J. Ryan,Pitcher,Steroid,Dominant Reliever / Closer,0,2014.0,0.01732847281142725,0
+bradfch01,Chad Bradford,Pitcher,Steroid,Power Hitter 2,0,2014.0,0.01732847281142725,0
+youngch03,Chris Young,Pitcher,Steroid,Workhorse Starting Pitcher,0,2022.0,0.01732847281142725,0
+downssc01,Scott Downs,Pitcher,Steroid,Dominant Reliever / Closer,0,2019.0,0.01732847281142725,0
+morrobr01,Brandon Morrow,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2023.0,0.01732847281142725,0
+peraljo01,Joel Peralta,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2021.0,0.01724819111717521,0
+guilloz01,Ozzie Guillen,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.01720735834453399,0
+timlimi01,Mike Timlin,Pitcher,Free-agency,Dominant Reliever / Closer,0,2013.0,0.01718480138304321,0
+wittbo01,Bobby Witt,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2006.0,0.017063138015594552,0
+sullisc01,Scott Sullivan,Pitcher,Steroid,Dominant Reliever / Closer,0,2009.0,0.016995700418082738,0
+mujiced01,Edward Mujica,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2022.0,0.016943170737185535,0
+wolfra02,Randy Wolf,Pitcher,Steroid,Workhorse Starting Pitcher,0,2020.0,0.016659273785768324,0
+gonzagi01,Gio Gonzalez,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2025.0,0.016659273785768324,0
+benesan01,Andy Benes,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2007.0,0.016659273785768324,0
+wohlema01,Mark Wohlers,Pitcher,Free-agency,Dominant Reliever / Closer,0,2007.0,0.01656613466679378,0
+sweenmi01,Mike Sweeney,Hitter,Steroid,Power Hitter,0,2015.0,0.016493586301766693,0
+sippto01,Tony Sipp,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2024.0,0.016436196765521337,0
+peacobr01,Brad Peacock,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.016436196765521337,0
+rijojo01,Jose Rijo,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2007.0,0.016436196765521337,0
+benoijo01,Joaquin Benoit,Pitcher,Steroid,Dominant Reliever / Closer,0,2022.0,0.016436196765521337,0
+fuentbr01,Brian Fuentes,Pitcher,Steroid,Dominant Reliever / Closer,0,2017.0,0.016436196765521337,0
+duffyda01,Danny Duffy,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2026.0,0.016436196765521337,0
+oliveda02,Darren Oliver,Pitcher,Steroid,Workhorse Starting Pitcher,0,2018.0,0.01621418129516575,0
+cormirh01,Rheal Cormier,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2012.0,0.01602054197958966,0
+belisma01,Matt Belisle,Pitcher,Steroid,Dominant Reliever / Closer,0,2023.0,0.016013563986176663,0
+tomlijo01,Josh Tomlin,Pitcher,Post-steroid,Power Hitter 2,0,2026.0,0.016013563986176663,0
+kratzer01,Erik Kratz,Hitter,Post-steroid,Power Hitter 2,0,2025.0,0.016013563986176663,0
+hernada01,David Hernandez,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2024.0,0.016013563986176663,0
+reedri01,Rick Reed,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2008.0,0.016013563986176663,0
+speieju01,Justin Speier,Pitcher,Steroid,Dominant Reliever / Closer,0,2014.0,0.015730027526008293,0
+kintzbr01,Brandon Kintzler,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.015730027526008293,0
+samarje01,Jeff Samardzija,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2025.0,0.015730027526008293,0
+salasfe01,Fernando Salas,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2024.0,0.015730027526008293,0
+walkeja01,Jamie Walker,Pitcher,Steroid,Power Hitter 2,0,2014.0,0.015730027526008293,0
+doteloc01,Octavio Dotel,Pitcher,Steroid,Dominant Reliever / Closer,0,2018.0,0.015730027526008293,0
+wheelda01,Dan Wheeler,Pitcher,Steroid,Dominant Reliever / Closer,0,2017.0,0.015730027526008293,0
+martivi01,Victor Martinez,Hitter,Steroid,Power Hitter,0,2023.0,0.015566909501273544,0
+hugheja02,Jared Hughes,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2025.0,0.015546247051621762,0
+hennemi01,Mike Henneman,Pitcher,Free-agency,Dominant Reliever / Closer,0,2001.0,0.015247169107593612,0
+coninje01,Jeff Conine,Hitter,Free-agency,Power Hitter,0,2012.0,0.015138111410895388,0
+kellesh01,Shawn Kelley,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2024.0,0.015107260809685576,0
+descada01,Daniel Descalso,Hitter,Post-steroid,Power Hitter 2,0,2024.0,0.015004784331690687,0
+mcdowja01,Jack McDowell,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2004.0,0.014995934141102764,0
+dempsry01,Ryan Dempster,Pitcher,Steroid,Workhorse Starting Pitcher,0,2018.0,0.01494482810607789,0
+leskacu01,Curt Leskanic,Pitcher,Steroid,Dominant Reliever / Closer,0,2009.0,0.014861129296734272,0
+quallch01,Chad Qualls,Pitcher,Steroid,Dominant Reliever / Closer,0,2022.0,0.014666602340876569,0
+wallati01,Tim Wallach,Hitter,Free-agency,Power Hitter,0,2001.0,0.014621092651338511,0
+porceri01,Rick Porcello,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2025.0,0.014494966228779979,0
+novaiv01,Ivan Nova,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2025.0,0.014494966228779979,0
+tartada01,Danny Tartabull,Hitter,Free-agency,Power Hitter,0,2002.0,0.014414801725415328,0
+hammeja01,Jason Hammel,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2023.0,0.014283152726293394,0
+salmoti01,Tim Salmon,Hitter,Free-agency,Power Hitter,0,2011.0,0.014206301389686342,0
+vizcajo01,Jose Vizcaino,Hitter,Free-agency,Power Hitter 2,0,2011.0,0.014073518207031413,0
+mclemma01,Mark McLemore,Hitter,Free-agency,Power Hitter 2,0,2009.0,0.014073518207031413,0
+osunaan01,Antonio Osuna,Pitcher,Steroid,Dominant Reliever / Closer,0,2010.0,0.014029818109063083,0
+penaca01,Carlos Peña,Hitter,Steroid,Power Hitter,0,2019.0,0.014024533710001959,0
+pattebo01,Bob Patterson,Pitcher,Free-agency,Dominant Reliever / Closer,0,2003.0,0.01402369484825444,0
+anderbr04,Brett Anderson,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2026.0,0.01402369484825444,0
+leakemi01,Mike Leake,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2024.0,0.01402369484825444,0
+villaca01,Carlos Villanueva,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2021.0,0.01402369484825444,0
+lillyte01,Ted Lilly,Pitcher,Steroid,Workhorse Starting Pitcher,0,2018.0,0.01402369484825444,0
+zimmejo02,Jordan Zimmermann,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2026.0,0.01402369484825444,0
+tewksbo01,Bob Tewksbury,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2003.0,0.01402369484825444,0
+rauchjo01,Jon Rauch,Pitcher,Steroid,Dominant Reliever / Closer,0,2018.0,0.01402369484825444,0
+liebejo01,Jon Lieber,Pitcher,Steroid,Workhorse Starting Pitcher,0,2013.0,0.01402369484825444,0
+pavanca01,Carl Pavano,Pitcher,Steroid,Workhorse Starting Pitcher,0,2017.0,0.01402369484825444,0
+tapanke01,Kevin Tapani,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2006.0,0.01402369484825444,0
+nicasju01,Juan Nicasio,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2025.0,0.01402369484825444,0
+nolasri01,Ricky Nolasco,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2022.0,0.01402369484825444,0
+mccarbr01,Brandon McCarthy,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2023.0,0.01402369484825444,0
+bakersc02,Scott Baker,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2020.0,0.01402369484825444,0
+capuach01,Chris Capuano,Pitcher,Steroid,Workhorse Starting Pitcher,0,2021.0,0.01402369484825444,0
+smilejo01,John Smiley,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2002.0,0.01402369484825444,0
+fistedo01,Doug Fister,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2023.0,0.01402369484825444,0
+fiersmi01,Mike Fiers,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2026.0,0.01402369484825444,0
+lewisco01,Colby Lewis,Pitcher,Steroid,Workhorse Starting Pitcher,0,2021.0,0.01402369484825444,0
+whitega01,Gabe White,Pitcher,Steroid,Dominant Reliever / Closer,0,2010.0,0.01402369484825444,0
+hugheph01,Phil Hughes,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2023.0,0.01402369484825444,0
+radkebr01,Brad Radke,Pitcher,Steroid,Workhorse Starting Pitcher,0,2011.0,0.01402369484825444,0
+blantjo01,Joe Blanton,Pitcher,Steroid,Workhorse Starting Pitcher,0,2022.0,0.01402369484825444,0
+estrama01,Marco Estrada,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2024.0,0.01402369484825444,0
+gimench01,Chris Gimenez,Hitter,Post-steroid,Power Hitter 2,0,2023.0,0.01402369484825444,0
+montgje01,Jeff Montgomery,Pitcher,Free-agency,Dominant Reliever / Closer,0,2004.0,0.013873154966612001,0
+cabreor01,Orlando Cabrera,Hitter,Steroid,Power Hitter,0,2016.0,0.01384995878562449,0
+eckstda01,David Eckstein,Hitter,Steroid,Power Hitter 2,0,2015.0,0.013841268896731481,0
+murphda08,Daniel Murphy,Hitter,Post-steroid,Power Hitter 2,0,2025.0,0.013780129336829669,0
+gordoto01,Tom Gordon,Pitcher,Free-agency,Dominant Reliever / Closer,0,2014.0,0.013752668871057428,0
+glaustr01,Troy Glaus,Hitter,Steroid,Power Hitter,0,2015.0,0.013744284408863295,0
+cairomi01,Miguel Cairo,Hitter,Steroid,Power Hitter 2,0,2017.0,0.01366739634626094,0
+brownto05,Tom Browning,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2000.0,0.013450325310061854,0
+mitchke01,Kevin Mitchell,Hitter,Free-agency,Power Hitter,0,2003.0,0.01327936690440734,0
+paintla01,Lance Painter,Pitcher,Steroid,Dominant Reliever / Closer,0,2008.0,0.013247782723887455,0
+fieldce01,Cecil Fielder,Hitter,Free-agency,Power Hitter,0,2003.0,0.013221078377436496,0
+stairma01,Matt Stairs,Hitter,Free-agency,Power Hitter,0,2016.0,0.013172086573100142,0
+chenbr01,Bruce Chen,Pitcher,Steroid,Workhorse Starting Pitcher,0,2020.0,0.013082998240361611,0
+justida01,David Justice,Hitter,Free-agency,Power Hitter,0,2007.0,0.013078216232637895,0
+drewst01,Stephen Drew,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.013070190713868621,0
+fowlede01,Dexter Fowler,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.013070190713868621,0
+gardnbr01,Brett Gardner,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.013070190713868621,0
+rueteki01,Kirk Rueter,Pitcher,Steroid,Workhorse Starting Pitcher,0,2010.0,0.013012569629176931,0
+zambrca01,Carlos Zambrano,Pitcher,Steroid,Workhorse Starting Pitcher,0,2017.0,0.013012569629176931,0
+venturo01,Robin Ventura,Hitter,Free-agency,Power Hitter,0,2009.0,0.01296933819713644,0
+gordoal01,Alex Gordon,Hitter,Post-steroid,Speed / Contact Profile,0,2025.0,0.012933177568236275,0
+neaglde01,Denny Neagle,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2008.0,0.012933035235398306,0
+schmija01,Jason Schmidt,Pitcher,Steroid,Workhorse Starting Pitcher,0,2014.0,0.012933035235398306,0
+wilsocj01,C. J. Wilson,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2020.0,0.012933035235398306,0
+hellije01,Jeremy Hellickson,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2024.0,0.012926497533534115,0
+caminke01,Ken Caminiti,Hitter,Free-agency,Power Hitter,0,2006.0,0.012922543776355908,0
+sprinru01,Russ Springer,Pitcher,Free-agency,Dominant Reliever / Closer,0,2015.0,0.012850672775737471,0
+guarded01,Eddie Guardado,Pitcher,Steroid,Dominant Reliever / Closer,0,2014.0,0.012850672775737471,0
+lopezja01,Javy Lopez,Hitter,Free-agency,Power Hitter,0,2011.0,0.012782701230577951,0
+varitja01,Jason Varitek,Hitter,Steroid,Power Hitter,0,2016.0,0.012782701230577951,0
+aurilri01,Rich Aurilia,Hitter,Steroid,Power Hitter 2,0,2014.0,0.012782701230577951,0
+castivi02,Vinny Castilla,Hitter,Free-agency,Power Hitter,0,2011.0,0.012775110872583241,0
+dukeza01,Zach Duke,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2024.0,0.012714804490446525,0
+buchhcl01,Clay Buchholz,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2024.0,0.012714804490446525,0
+harrile01,Lenny Harris,Hitter,Free-agency,Power Hitter 2,0,2010.0,0.012635703065830154,0
+matsuhi01,Hideki Matsui,Hitter,Steroid,Power Hitter 2,0,2017.0,0.012544419233233102,0
+loganbo02,Boone Logan,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2023.0,0.012505574297049106,0
+cecilbr01,Brett Cecil,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2023.0,0.012505574297049106,0
+heredgi01,Gil Heredia,Pitcher,Free-agency,Power Hitter 2,0,2006.0,0.012505574297049106,0
+rodriwa01,Wandy Rodriguez,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2020.0,0.012505574297049106,0
+myersbr01,Brett Myers,Pitcher,Steroid,Workhorse Starting Pitcher,0,2018.0,0.012505574297049106,0
+burkejo03,John Burkett,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2008.0,0.012505574297049106,0
+limajo01,Jose Lima,Pitcher,Steroid,Workhorse Starting Pitcher,0,2011.0,0.012505574297049106,0
+baileho02,Homer Bailey,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2025.0,0.012505574297049106,0
+miltoer01,Eric Milton,Pitcher,Steroid,Workhorse Starting Pitcher,0,2014.0,0.012505574297049106,0
+swarzan01,Anthony Swarzak,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.012505574297049106,0
+garcija02,Jaime Garcia,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2023.0,0.012505574297049106,0
+francfr01,Frank Francisco,Pitcher,Steroid,Dominant Reliever / Closer,0,2019.0,0.012505574297049106,0
+gagnegr01,Greg Gagne,Hitter,Free-agency,Power Hitter 2,0,2002.0,0.012502803041545177,0
+dyeje01,Jermaine Dye,Hitter,Steroid,Power Hitter,0,2014.0,0.012501747654739716,0
+lowelmi01,Mike Lowell,Hitter,Steroid,Power Hitter,0,2015.0,0.012442598553531482,0
+felizne01,Neftali Feliz,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.012396806910899609,0
+morgami01,Mike Morgan,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2007.0,0.012335986648315362,0
+daviser01,Eric Davis,Hitter,Free-agency,Power Hitter,0,2006.0,0.012239594624183166,0
+sexsori01,Richie Sexson,Hitter,Steroid,Power Hitter,0,2013.0,0.012167861888769036,0
+shielsc01,Scot Shields,Pitcher,Steroid,Dominant Reliever / Closer,0,2015.0,0.012165407866362167,0
+reedst01,Steve Reed,Pitcher,Free-agency,Dominant Reliever / Closer,0,2010.0,0.012165407866362167,0
+mecirji01,Jim Mecir,Pitcher,Steroid,Dominant Reliever / Closer,0,2010.0,0.012165407866362167,0
+westda01,David West,Pitcher,Free-agency,Dominant Reliever / Closer,0,2003.0,0.012072087747480795,0
+carrema01,Mark Carreon,Hitter,Free-agency,Power Hitter 2,0,2001.0,0.012072087747480795,0
+martiru01,Russell Martin,Hitter,Post-steroid,Power Hitter,0,2024.0,0.01205701131393112,0
+darwida01,Danny Darwin,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2003.0,0.012042637688783745,0
+stroppe01,Pedro Strop,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.011992922330273756,0
+burnije01,Jeromy Burnitz,Hitter,Steroid,Power Hitter,0,2011.0,0.0119224016582771,0
+bicheda01,Dante Bichette,Hitter,Free-agency,Power Hitter,0,2006.0,0.011918552083094733,0
+pendlte01,Terry Pendleton,Hitter,Free-agency,Power Hitter,0,2003.0,0.011915905518298428,0
+morneju01,Justin Morneau,Hitter,Steroid,Power Hitter,0,2021.0,0.011784488933440378,0
+mesajo01,Jose Mesa,Pitcher,Free-agency,Dominant Reliever / Closer,0,2012.0,0.011778559897008992,0
+greenmi01,Mike Greenwell,Hitter,Free-agency,Power Hitter 2,0,2001.0,0.011758549147085287,0
+bellira01,Rafael Belliard,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.011732204514895228,0
+bordepa01,Pat Borders,Hitter,Free-agency,Power Hitter 2,0,2010.0,0.011732204514895228,0
+pencehu01,Hunter Pence,Hitter,Post-steroid,Power Hitter,0,2025.0,0.01168471381001552,0
+youklke01,Kevin Youkilis,Hitter,Steroid,Power Hitter 2,0,2018.0,0.011633908340191273,0
+heredfe01,Felix Heredia,Pitcher,Steroid,Power Hitter 2,0,2010.0,0.011597542944314004,0
+monteri01,Rich Monteleone,Pitcher,Free-agency,Dominant Reliever / Closer,0,2001.0,0.011597542944314004,0
+vanslan01,Andy Van Slyke,Hitter,Free-agency,Power Hitter,0,2000.0,0.011586021905277032,0
+snowjt01,J. T. Snow,Hitter,Free-agency,Power Hitter,0,2013.0,0.011527505697755576,0
+merckke01,Kent Mercker,Pitcher,Free-agency,Dominant Reliever / Closer,0,2013.0,0.011523586113330783,0
+jacksed01,Edwin Jackson,Pitcher,Steroid,Workhorse Starting Pitcher,0,2024.0,0.011523586113330783,0
+leiteal01,Al Leiter,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2010.0,0.011523586113330783,0
+weathda01,David Weathers,Pitcher,Free-agency,Dominant Reliever / Closer,0,2014.0,0.011523586113330783,0
+mathije01,Jeff Mathis,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.011453046959607015,0
+burneaj01,A. J. Burnett,Pitcher,Steroid,Workhorse Starting Pitcher,0,2020.0,0.011453046959607015,0
+henrydo01,Doug Henry,Pitcher,Free-agency,Dominant Reliever / Closer,0,2006.0,0.01140158686208359,0
+romerjc01,J. C. Romero,Pitcher,Steroid,Power Hitter 2,0,2017.0,0.01140158686208359,0
+mcelrch01,Chuck McElroy,Pitcher,Free-agency,Power Hitter 2,0,2006.0,0.01140158686208359,0
+floydcl01,Cliff Floyd,Hitter,Steroid,Power Hitter,0,2014.0,0.011378009733962476,0
+jordabr01,Brian Jordan,Hitter,Free-agency,Power Hitter,0,2011.0,0.011340389336090629,0
+krukjo01,John Kruk,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.011339130626271671,0
+johnsla03,Lance Johnson,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.011308620997572917,0
+swishni01,Nick Swisher,Hitter,Steroid,Power Hitter 2,0,2020.0,0.011189738401954103,0
+uribeju01,Juan Uribe,Hitter,Steroid,Power Hitter,0,2021.0,0.011189738401954103,0
+napolmi01,Mike Napoli,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.011189738401954103,0
+werthja01,Jayson Werth,Hitter,Steroid,Power Hitter,0,2022.0,0.011189738401954103,0
+peraljh01,Jhonny Peralta,Hitter,Steroid,Power Hitter,0,2022.0,0.011189738401954103,0
+zimmery01,Ryan Zimmerman,Hitter,Post-steroid,Power Hitter,0,2026.0,0.011189738401954103,0
+zobribe01,Ben Zobrist,Hitter,Post-steroid,Power Hitter,0,2024.0,0.011189738401954103,0
+alfoned01,Edgardo Alfonzo,Hitter,Steroid,Power Hitter 2,0,2011.0,0.011189738401954103,0
+guzmaju01,Juan Guzman,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2005.0,0.011168755334037187,0
+worreti01,Tim Worrell,Pitcher,Steroid,Dominant Reliever / Closer,0,2011.0,0.011130207466861644,0
+feldmsc01,Scott Feldman,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2022.0,0.011130207466861644,0
+marteda01,Damaso Marte,Pitcher,Steroid,Dominant Reliever / Closer,0,2015.0,0.011130207466861644,0
+karsast01,Steve Karsay,Pitcher,Steroid,Dominant Reliever / Closer,0,2011.0,0.011130207466861644,0
+shawje01,Jeff Shaw,Pitcher,Free-agency,Dominant Reliever / Closer,0,2006.0,0.011130207466861644,0
+howeljp01,J. P. Howell,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2022.0,0.011130207466861644,0
+rojasme01,Mel Rojas,Pitcher,Free-agency,Dominant Reliever / Closer,0,2004.0,0.011130207466861644,0
+balfogr01,Grant Balfour,Pitcher,Steroid,Dominant Reliever / Closer,0,2020.0,0.011130207466861644,0
+leagubr01,Brandon League,Pitcher,Steroid,Dominant Reliever / Closer,0,2019.0,0.011130207466861644,0
+escobke01,Kelvim Escobar,Pitcher,Steroid,Dominant Reliever / Closer,0,2014.0,0.011130207466861644,0
+staufti01,Tim Stauffer,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2020.0,0.011130207466861644,0
+riskeda01,David Riske,Pitcher,Steroid,Dominant Reliever / Closer,0,2015.0,0.011130207466861644,0
+karroer01,Eric Karros,Hitter,Free-agency,Power Hitter,0,2009.0,0.011113286200019494,0
+bayja01,Jason Bay,Hitter,Steroid,Power Hitter,0,2018.0,0.011113286200019494,0
+pedrodu01,Dustin Pedroia,Hitter,Post-steroid,Power Hitter,0,2024.0,0.01108704263691872,0
+averyst01,Steve Avery,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2008.0,0.011000186827729148,0
+frymatr01,Travis Fryman,Hitter,Free-agency,Power Hitter,0,2007.0,0.010916249424659826,0
+rossco01,Cody Ross,Hitter,Steroid,Power Hitter 2,0,2020.0,0.01088232722944692,0
+sandopa01,Pablo Sandoval,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.01088232722944692,0
+morelmi01,Mitch Moreland,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.01088232722944692,0
+jayjo02,Jon Jay,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.01088232722944692,0
+spiezsc01,Scott Spiezio,Hitter,Steroid,Power Hitter 2,0,2012.0,0.01088232722944692,0
+riosal01,Alex Rios,Hitter,Steroid,Power Hitter,0,2020.0,0.010879736866166967,0
+samueju01,Juan Samuel,Hitter,Free-agency,Power Hitter,0,2003.0,0.010875012114768318,0
+motagu01,Guillermo Mota,Pitcher,Steroid,Dominant Reliever / Closer,0,2017.0,0.010847255940252052,0
+byrdpa01,Paul Byrd,Pitcher,Steroid,Workhorse Starting Pitcher,0,2014.0,0.010847255940252052,0
+rincoju01,Juan Rincon,Pitcher,Steroid,Dominant Reliever / Closer,0,2015.0,0.010847255940252052,0
+dunnmi01,Mike Dunn,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2024.0,0.010847255940252052,0
+honeyri01,Rick Honeycutt,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2002.0,0.010798083881362186,0
+mulhote01,Terry Mulholland,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2011.0,0.010798083881362186,0
+polanpl01,Placido Polanco,Hitter,Steroid,Power Hitter 2,0,2018.0,0.010725366403178399,0
+smithse01,Seth Smith,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.01056673274341966,0
+dejesda01,David DeJesus,Hitter,Steroid,Power Hitter 2,0,2020.0,0.010520179058573524,0
+martida01,Dave Martinez,Hitter,Free-agency,Speed / Contact Profile,0,2006.0,0.010520179058573524,0
+johnsni01,Nick Johnson,Hitter,Steroid,Power Hitter 2,0,2017.0,0.010512428895548076,0
+gonzaca01,Carlos Gonzalez,Hitter,Post-steroid,Power Hitter,0,2024.0,0.010488112937391525,0
+jonesad01,Adam Jones,Hitter,Post-steroid,Power Hitter,0,2024.0,0.010453482572788384,0
+martiti02,Tino Martinez,Hitter,Free-agency,Power Hitter,0,2010.0,0.010451294652972638,0
+daultda01,Darren Daulton,Hitter,Free-agency,Power Hitter 2,0,2002.0,0.010439453423244965,0
+weisswa01,Walt Weiss,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.010439453423244965,0
+youngde03,Delmon Young,Hitter,Post-steroid,Power Hitter 2,0,2020.0,0.010439453423244965,0
+dykstle01,Lenny Dykstra,Hitter,Free-agency,Power Hitter 2,0,2001.0,0.010439453423244965,0
+palmede01,Dean Palmer,Hitter,Free-agency,Power Hitter,0,2008.0,0.010435514920225824,0
+kendrho01,Howie Kendrick,Hitter,Post-steroid,Power Hitter 2,0,2025.0,0.010410855035677711,0
+freesda01,David Freese,Hitter,Post-steroid,Power Hitter 2,0,2024.0,0.010403866735819882,0
+brosisc01,Scott Brosius,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.010403866735819882,0
+johnsch04,Charles Johnson,Hitter,Steroid,Power Hitter 2,0,2010.0,0.010403866735819882,0
+erstada01,Darin Erstad,Hitter,Steroid,Power Hitter 2,0,2014.0,0.010403866735819882,0
+schofdi02,Dick Schofield,Hitter,Free-agency,Power Hitter 2,0,2001.0,0.010399883838711984,0
+fletcsc01,Scott Fletcher,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.010399883838711984,0
+wilsoja02,Jack Wilson,Hitter,Steroid,Power Hitter 2,0,2017.0,0.010399883838711984,0
+castilu01,Luis Castillo,Hitter,Steroid,Power Hitter 2,0,2015.0,0.010399883838711984,0
+batismi01,Miguel Batista,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2017.0,0.010268791448221943,0
+kotsama01,Mark Kotsay,Hitter,Steroid,Power Hitter,0,2018.0,0.010268791448221943,0
+wrighja01,Jamey Wright,Pitcher,Steroid,Workhorse Starting Pitcher,0,2019.0,0.010268791448221943,0
+tavarju01,Julian Tavarez,Pitcher,Steroid,Dominant Reliever / Closer,0,2014.0,0.010268791448221943,0
+reedje02,Jeff Reed,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.010268791448221943,0
+castrju01,Juan Castro,Hitter,Steroid,Power Hitter 2,0,2016.0,0.010268791448221943,0
+parkch01,Chan Ho Park,Pitcher,Steroid,Workhorse Starting Pitcher,0,2015.0,0.010268791448221943,0
+suppaje01,Jeff Suppan,Pitcher,Steroid,Workhorse Starting Pitcher,0,2017.0,0.010268791448221943,0
+easleda01,Damion Easley,Hitter,Free-agency,Power Hitter 2,0,2013.0,0.010268791448221943,0
+javiest01,Stan Javier,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.010268791448221943,0
+myersgr01,Greg Myers,Hitter,Free-agency,Power Hitter 2,0,2010.0,0.010268791448221943,0
+princto01,Tom Prince,Hitter,Free-agency,Power Hitter 2,0,2008.0,0.010268791448221943,0
+deshide01,Delino DeShields,Hitter,Free-agency,Power Hitter 2,0,2007.0,0.010150024485563321,0
+polonlu01,Luis Polonia,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.010122210864510718,0
+hudsoor01,Orlando Hudson,Hitter,Steroid,Power Hitter 2,0,2017.0,0.010115414336916373,0
+adamsma01,Matt Adams,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.010098686806870876,0
+blancgr01,Gregor Blanco,Hitter,Post-steroid,Power Hitter 2,0,2023.0,0.010098686806870876,0
+nixontr01,Trot Nixon,Hitter,Steroid,Power Hitter 2,0,2013.0,0.010098686806870876,0
+bordimi01,Mike Bordick,Hitter,Free-agency,Power Hitter 2,0,2008.0,0.010098686806870876,0
+lemkema01,Mark Lemke,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.010098686806870876,0
+blakeca01,Casey Blake,Hitter,Steroid,Power Hitter 2,0,2016.0,0.010098686806870876,0
+pearcst01,Steve Pearce,Hitter,Post-steroid,Power Hitter 2,0,2024.0,0.010098686806870876,0
+figgich01,Chone Figgins,Hitter,Steroid,Power Hitter 2,0,2019.0,0.010098686806870876,0
+paganan01,Angel Pagan,Hitter,Post-steroid,Power Hitter 2,0,2021.0,0.010098686806870876,0
+kennead01,Adam Kennedy,Hitter,Steroid,Power Hitter 2,0,2017.0,0.010098686806870876,0
+scutama01,Marco Scutaro,Hitter,Steroid,Power Hitter 2,0,2019.0,0.010098686806870876,0
+hatchbi01,Billy Hatcher,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.010098686806870876,0
+ethiean01,Andre Ethier,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.010098686806870876,0
+millake01,Kevin Millar,Hitter,Steroid,Power Hitter 2,0,2014.0,0.010098686806870876,0
+valenjo02,John Valentin,Hitter,Free-agency,Power Hitter 2,0,2007.0,0.010098686806870876,0
+crispco01,Coco Crisp,Hitter,Steroid,Power Hitter 2,0,2021.0,0.010098686806870876,0
+corajo01,Joey Cora,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.010098686806870876,0
+reddijo01,Josh Reddick,Hitter,Post-steroid,Speed / Contact Profile,0,2026.0,0.010098686806870876,0
+muellbi02,Bill Mueller,Hitter,Steroid,Power Hitter 2,0,2011.0,0.010098686806870876,0
+ruizca01,Carlos Ruiz,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.010098686806870876,0
+youngch04,Chris Young,Hitter,Post-steroid,Power Hitter 2,0,2023.0,0.010098686806870876,0
+murphda07,David Murphy,Hitter,Post-steroid,Power Hitter 2,0,2020.0,0.010098686806870876,0
+womacto01,Tony Womack,Hitter,Steroid,Power Hitter 2,0,2011.0,0.010098686806870876,0
+bellda01,David Bell,Hitter,Steroid,Power Hitter 2,0,2011.0,0.010098686806870876,0
+eatonad02,Adam Eaton,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.010098686806870876,0
+rowanaa01,Aaron Rowand,Hitter,Steroid,Power Hitter 2,0,2016.0,0.010098686806870876,0
+lockhke01,Keith Lockhart,Hitter,Steroid,Power Hitter 2,0,2008.0,0.010098686806870876,0
+willige02,Gerald Williams,Hitter,Free-agency,Power Hitter 2,0,2010.0,0.010098686806870876,0
+vinafe01,Fernando Vina,Hitter,Steroid,Power Hitter 2,0,2009.0,0.010098686806870876,0
+duncama01,Mariano Duncan,Hitter,Free-agency,Power Hitter 2,0,2002.0,0.010098686806870876,0
+counscr01,Craig Counsell,Hitter,Steroid,Power Hitter 2,0,2016.0,0.010098686806870876,0
+infanom01,Omar Infante,Hitter,Steroid,Power Hitter 2,0,2021.0,0.010098686806870876,0
+ingebr01,Brandon Inge,Hitter,Steroid,Power Hitter 2,0,2018.0,0.010098686806870876,0
+blausje01,Jeff Blauser,Hitter,Free-agency,Power Hitter 2,0,2004.0,0.010098686806870876,0
+lewisda01,Darren Lewis,Hitter,Free-agency,Power Hitter 2,0,2007.0,0.010098686806870876,0
+molinbe01,Bengie Molina,Hitter,Steroid,Power Hitter 2,0,2015.0,0.010098686806870876,0
+riverju01,Juan Rivera,Hitter,Steroid,Power Hitter 2,0,2017.0,0.010098686806870876,0
+hafnetr01,Travis Hafner,Hitter,Steroid,Power Hitter,0,2018.0,0.010023819256151678,0
+dickera01,R. A. Dickey,Pitcher,Steroid,Workhorse Starting Pitcher,0,2022.0,0.009991679306610036,0
+lloydgr01,Graeme Lloyd,Pitcher,Steroid,Dominant Reliever / Closer,0,2008.0,0.009978996876479173,0
+macdomi01,Mike MacDougal,Pitcher,Steroid,Dominant Reliever / Closer,0,2017.0,0.009978996876479173,0
+mcdowro01,Roger McDowell,Pitcher,Free-agency,Dominant Reliever / Closer,0,2001.0,0.009978996876479173,0
+nelsoje01,Jeff Nelson,Pitcher,Free-agency,Dominant Reliever / Closer,0,2011.0,0.009978996876479173,0
+boevejo01,Joe Boever,Pitcher,Free-agency,Dominant Reliever / Closer,0,2001.0,0.009978996876479173,0
+bedrost01,Steve Bedrosian,Pitcher,Free-agency,Dominant Reliever / Closer,0,2000.0,0.009978996876479173,0
+breslcr01,Craig Breslow,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2022.0,0.009978996876479173,0
+eischjo01,Joey Eischen,Pitcher,Steroid,Dominant Reliever / Closer,0,2011.0,0.009978996876479173,0
+brantje01,Jeff Brantley,Pitcher,Free-agency,Dominant Reliever / Closer,0,2006.0,0.009978996876479173,0
+eyresc01,Scott Eyre,Pitcher,Steroid,Dominant Reliever / Closer,0,2014.0,0.009978996876479173,0
+cruzju02,Juan Cruz,Pitcher,Steroid,Dominant Reliever / Closer,0,2017.0,0.009978996876479173,0
+affelje01,Jeremy Affeldt,Pitcher,Steroid,Dominant Reliever / Closer,0,2020.0,0.009978996876479173,0
+hammoch01,Chris Hammond,Pitcher,Free-agency,Power Hitter 2,0,2011.0,0.009978996876479173,0
+coxda01,Danny Cox,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2000.0,0.009978996876479173,0
+armasto02,Tony Armas,Pitcher,Steroid,Workhorse Starting Pitcher,0,2013.0,0.009978996876479173,0
+reyesde01,Dennys Reyes,Pitcher,Steroid,Dominant Reliever / Closer,0,2016.0,0.009978996876479173,0
+remlimi01,Mike Remlinger,Pitcher,Free-agency,Dominant Reliever / Closer,0,2011.0,0.009978996876479173,0
+plunker01,Eric Plunk,Pitcher,Free-agency,Dominant Reliever / Closer,0,2004.0,0.009978996876479173,0
+guerrma02,Matt Guerrier,Pitcher,Steroid,Dominant Reliever / Closer,0,2019.0,0.009978996876479173,0
+russeje01,Jeff Russell,Pitcher,Free-agency,Dominant Reliever / Closer,0,2001.0,0.009978996876479173,0
+rincori01,Ricardo Rincon,Pitcher,Steroid,Dominant Reliever / Closer,0,2013.0,0.009978996876479173,0
+carrahe01,Hector Carrasco,Pitcher,Steroid,Dominant Reliever / Closer,0,2012.0,0.009978996876479173,0
+spande01,Denard Span,Hitter,Post-steroid,Power Hitter 2,0,2023.0,0.009818611722542057,0
+bournmi01,Michael Bourn,Hitter,Post-steroid,Power Hitter 2,0,2021.0,0.009818611722542057,0
+offerjo01,Jose Offerman,Hitter,Free-agency,Power Hitter 2,0,2010.0,0.009818611722542057,0
+perezne01,Neifi Perez,Hitter,Steroid,Power Hitter 2,0,2012.0,0.009818611722542057,0
+guzmacr01,Cristian Guzman,Hitter,Steroid,Power Hitter 2,0,2015.0,0.009818611722542057,0
+ankieri01,Rick Ankiel,Two-Way,Steroid,Power Hitter 2,0,2018.0,0.009813703046768244,0
+graveda01,Danny Graves,Pitcher,Steroid,Dominant Reliever / Closer,0,2011.0,0.009725023546535646,0
+charlno01,Norm Charlton,Pitcher,Free-agency,Dominant Reliever / Closer,0,2006.0,0.009725023546535646,0
+baezda01,Danys Baez,Pitcher,Steroid,Dominant Reliever / Closer,0,2016.0,0.009725023546535646,0
+wellsve01,Vernon Wells,Hitter,Steroid,Power Hitter,0,2018.0,0.009715348923704441,0
+kempma01,Matt Kemp,Hitter,Post-steroid,Power Hitter,0,2025.0,0.009707334844176891,0
+baergca01,Carlos Baerga,Hitter,Free-agency,Power Hitter 2,0,2010.0,0.00969853107227607,0
+nagych01,Charles Nagy,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2008.0,0.00966538625496388,0
+micelda01,Dan Miceli,Pitcher,Steroid,Dominant Reliever / Closer,0,2011.0,0.00966538625496388,0
+torreca01,Carlos Torres,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2024.0,0.00966538625496388,0
+hollade01,Derek Holland,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2026.0,0.00966538625496388,0
+padilvi01,Vicente Padilla,Pitcher,Steroid,Workhorse Starting Pitcher,0,2017.0,0.00966538625496388,0
+belinst01,Stan Belinda,Pitcher,Free-agency,Dominant Reliever / Closer,0,2005.0,0.00966538625496388,0
+loretma01,Mark Loretta,Hitter,Steroid,Power Hitter 2,0,2014.0,0.009532598410302597,0
+lowema01,Mark Lowe,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2021.0,0.00949316634099235,0
+gallayo01,Yovani Gallardo,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2023.0,0.00949316634099235,0
+pineijo01,Joel Pineiro,Pitcher,Steroid,Workhorse Starting Pitcher,0,2016.0,0.00949316634099235,0
+borowjo01,Joe Borowski,Pitcher,Steroid,Dominant Reliever / Closer,0,2013.0,0.00949316634099235,0
+morrima01,Matt Morris,Pitcher,Steroid,Workhorse Starting Pitcher,0,2013.0,0.00949316634099235,0
+habyajo01,John Habyan,Pitcher,Free-agency,Dominant Reliever / Closer,0,2001.0,0.00949316634099235,0
+cainma01,Matt Cain,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2022.0,0.00949316634099235,0
+duensbr01,Brian Duensing,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2023.0,0.00949316634099235,0
+axforjo01,John Axford,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.00949316634099235,0
+valdeis01,Ismael Valdez,Pitcher,Steroid,Workhorse Starting Pitcher,0,2010.0,0.00949316634099235,0
+guerrja01,Javy Guerra,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.00949316634099235,0
+astacpe01,Pedro Astacio,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2011.0,0.00949316634099235,0
+fasseje01,Jeff Fassero,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2011.0,0.00949316634099235,0
+brachbr01,Brad Brach,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.00949316634099235,0
+johnsji04,Jim Johnson,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2023.0,0.00949316634099235,0
+servisc01,Scott Service,Pitcher,Free-agency,Dominant Reliever / Closer,0,2009.0,0.00949316634099235,0
+brocado01,Doug Brocail,Pitcher,Free-agency,Dominant Reliever / Closer,0,2014.0,0.00949316634099235,0
+cashnan01,Andrew Cashner,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2024.0,0.00949316634099235,0
+johnsho01,Howard Johnson,Hitter,Free-agency,Power Hitter,0,2000.0,0.009422391968125478,0
+vaughgr01,Greg Vaughn,Hitter,Free-agency,Power Hitter,0,2008.0,0.009422391968125478,0
+grudzma01,Mark Grudzielanek,Hitter,Steroid,Power Hitter 2,0,2015.0,0.009391034620179877,0
+larocad01,Adam LaRoche,Hitter,Steroid,Power Hitter,0,2020.0,0.009361064411026876,0
+morriha02,Hal Morris,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00918367882264505,0
+clarkto02,Tony Clark,Hitter,Steroid,Power Hitter,0,2014.0,0.009114518678276253,0
+nevinph01,Phil Nevin,Hitter,Steroid,Power Hitter 2,0,2011.0,0.009114518678276253,0
+bruceja01,Jay Bruce,Hitter,Post-steroid,Power Hitter,0,2026.0,0.009114518678276253,0
+burrepa01,Pat Burrell,Hitter,Steroid,Power Hitter,0,2016.0,0.009114518678276253,0
+joynewa01,Wally Joyner,Hitter,Free-agency,Power Hitter,0,2006.0,0.009071248245201046,0
+hamptmi01,Mike Hampton,Pitcher,Steroid,Workhorse Starting Pitcher,0,2015.0,0.009063665530036876,0
+sotoge01,Geovany Soto,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.009063017370199534,0
+hinsker01,Eric Hinske,Hitter,Steroid,Power Hitter 2,0,2018.0,0.009063017370199534,0
+cabreas01,Asdrubal Cabrera,Hitter,Post-steroid,Power Hitter,0,2026.0,0.009055176659318133,0
+munozmi01,Mike Munoz,Pitcher,Free-agency,Power Hitter 2,0,2005.0,0.009019869550089077,0
+baldwja01,James Baldwin,Pitcher,Steroid,Workhorse Starting Pitcher,0,2010.0,0.008957161375969452,0
+mondera01,Raul Mondesi,Hitter,Steroid,Power Hitter,0,2010.0,0.008948883758963369,0
+hergema01,Matt Herges,Pitcher,Steroid,Dominant Reliever / Closer,0,2014.0,0.008890878594934478,0
+kingje01,Jeff King,Hitter,Free-agency,Power Hitter 2,0,2004.0,0.008823478438293657,0
+hentgpa01,Pat Hentgen,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2009.0,0.00879744866279794,0
+davisma01,Mark Davis,Pitcher,Free-agency,Dominant Reliever / Closer,0,2002.0,0.00879744866279794,0
+swiftbi02,Bill Swift,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2003.0,0.00879744866279794,0
+huffau01,Aubrey Huff,Hitter,Steroid,Power Hitter,0,2017.0,0.008774746816333182,0
+ugglada01,Dan Uggla,Hitter,Post-steroid,Power Hitter 2,0,2020.0,0.008766782594303836,0
+lopezro01,Rodrigo Lopez,Pitcher,Steroid,Workhorse Starting Pitcher,0,2017.0,0.008743449366140061,0
+woodke02,Kerry Wood,Pitcher,Steroid,Dominant Reliever / Closer,0,2017.0,0.008743449366140061,0
+loaizes01,Esteban Loaiza,Pitcher,Steroid,Workhorse Starting Pitcher,0,2013.0,0.008743449366140061,0
+drabedo01,Doug Drabek,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2003.0,0.008743449366140061,0
+jimenub01,Ubaldo Jimenez,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2022.0,0.008743449366140061,0
+seitzke01,Kevin Seitzer,Hitter,Free-agency,Power Hitter 2,0,2002.0,0.008708348416411021,0
+moralke01,Kendrys Morales,Hitter,Post-steroid,Power Hitter,0,2024.0,0.008686008696289929,0
+nadyxa01,Xavier Nady,Hitter,Steroid,Power Hitter 2,0,2019.0,0.008664356367630677,0
+marquja01,Jason Marquis,Pitcher,Steroid,Workhorse Starting Pitcher,0,2020.0,0.008664356367630677,0
+walbema01,Matt Walbeck,Hitter,Steroid,Power Hitter 2,0,2008.0,0.008664356367630677,0
+mahompa01,Pat Mahomes,Pitcher,Free-agency,Power Hitter 2,0,2008.0,0.008664356367630677,0
+manzajo01,Josias Manzanillo,Pitcher,Free-agency,Dominant Reliever / Closer,0,2009.0,0.008664356367630677,0
+gonzaed01,Edgar Gonzalez,Pitcher,Steroid,Dominant Reliever / Closer,0,2018.0,0.008664356367630677,0
+gomezje01,Jeanmar Gomez,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2024.0,0.008664356367630677,0
+olivaom01,Omar Olivares,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2006.0,0.008664356367630677,0
+johnsja02,Jason Johnson,Pitcher,Steroid,Workhorse Starting Pitcher,0,2013.0,0.008664356367630677,0
+blanche01,Henry Blanco,Hitter,Steroid,Power Hitter 2,0,2018.0,0.008664356367630677,0
+fletcda01,Darrin Fletcher,Hitter,Free-agency,Power Hitter 2,0,2007.0,0.008664356367630677,0
+torreyo01,Yorvit Torrealba,Hitter,Steroid,Power Hitter 2,0,2018.0,0.008664356367630677,0
+candito01,Tom Candiotti,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2004.0,0.008664356367630677,0
+hillke01,Ken Hill,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2006.0,0.008664356367630677,0
+willimi02,Mitch Williams,Pitcher,Free-agency,Dominant Reliever / Closer,0,2002.0,0.008664356367630677,0
+leema02,Manuel Lee,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.008664356367630677,0
+loopebr01,Braden Looper,Pitcher,Steroid,Dominant Reliever / Closer,0,2014.0,0.008664356367630677,0
+jacksda03,Darrin Jackson,Hitter,Free-agency,Power Hitter 2,0,2004.0,0.008664356367630677,0
+caseyse01,Sean Casey,Hitter,Steroid,Power Hitter 2,0,2013.0,0.00866217173988571,0
+tettlmi01,Mickey Tettleton,Hitter,Free-agency,Power Hitter,0,2002.0,0.008656346978175954,0
+evereca01,Carl Everett,Hitter,Steroid,Power Hitter 2,0,2011.0,0.008515434244370311,0
+lankfra01,Ray Lankford,Hitter,Free-agency,Power Hitter,0,2009.0,0.008515434244370311,0
+hamiljo02,Joey Hamilton,Pitcher,Steroid,Workhorse Starting Pitcher,0,2008.0,0.008509819750383814,0
+whitema02,Matt Whiteside,Pitcher,Free-agency,Dominant Reliever / Closer,0,2010.0,0.008509819750383814,0
+gottji01,Jim Gott,Pitcher,Free-agency,Dominant Reliever / Closer,0,2000.0,0.008509819750383814,0
+ruffibr01,Bruce Ruffin,Pitcher,Free-agency,Dominant Reliever / Closer,0,2002.0,0.008509819750383814,0
+martito02,Tom Martin,Pitcher,Steroid,Dominant Reliever / Closer,0,2012.0,0.008509819750383814,0
+darliro01,Ron Darling,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2000.0,0.008509819750383814,0
+witasja01,Jay Witasick,Pitcher,Steroid,Dominant Reliever / Closer,0,2012.0,0.008509819750383814,0
+myersmi01,Mike Myers,Pitcher,Steroid,Dominant Reliever / Closer,0,2012.0,0.008509819750383814,0
+hendrma01,Mark Hendrickson,Pitcher,Steroid,Workhorse Starting Pitcher,0,2016.0,0.008509819750383814,0
+harrigr01,Greg Harris,Pitcher,Free-agency,Dominant Reliever / Closer,0,2000.0,0.008509819750383814,0
+eldreca01,Cal Eldred,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2010.0,0.008509819750383814,0
+fettemi01,Mike Fetters,Pitcher,Free-agency,Dominant Reliever / Closer,0,2009.0,0.008509819750383814,0
+torresa01,Salomon Torres,Pitcher,Steroid,Dominant Reliever / Closer,0,2013.0,0.008509819750383814,0
+groombu01,Buddy Groom,Pitcher,Free-agency,Power Hitter 2,0,2010.0,0.008509819750383814,0
+wendetu01,Turk Wendell,Pitcher,Steroid,Dominant Reliever / Closer,0,2009.0,0.008509819750383814,0
+hayneji01,Jimmy Haynes,Pitcher,Steroid,Workhorse Starting Pitcher,0,2009.0,0.008509819750383814,0
+shousbr01,Brian Shouse,Pitcher,Steroid,Power Hitter 2,0,2014.0,0.008509819750383814,0
+castito02,Tony Castillo,Pitcher,Free-agency,Dominant Reliever / Closer,0,2003.0,0.008509819750383814,0
+deleojo01,Jose DeLeon,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2000.0,0.008509819750383814,0
+gorzeto01,Tom Gorzelanny,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2021.0,0.008509819750383814,0
+smithza01,Zane Smith,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2001.0,0.008509819750383814,0
+willimi03,Mike Williams,Pitcher,Free-agency,Dominant Reliever / Closer,0,2008.0,0.008509819750383814,0
+mantema01,Matt Mantei,Pitcher,Steroid,Dominant Reliever / Closer,0,2010.0,0.008509819750383814,0
+belchti01,Tim Belcher,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2005.0,0.008509819750383814,0
+rasmude01,Dennis Rasmussen,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2000.0,0.008509819750383814,0
+choatra01,Randy Choate,Pitcher,Steroid,Dominant Reliever / Closer,0,2020.0,0.008509819750383814,0
+freemma02,Marvin Freeman,Pitcher,Free-agency,Dominant Reliever / Closer,0,2001.0,0.008509819750383814,0
+seleaa01,Aaron Sele,Pitcher,Steroid,Workhorse Starting Pitcher,0,2012.0,0.008509819750383814,0
+frankry01,Ryan Franklin,Pitcher,Steroid,Dominant Reliever / Closer,0,2016.0,0.008509819750383814,0
+bottari01,Ricky Bottalico,Pitcher,Steroid,Dominant Reliever / Closer,0,2010.0,0.008509819750383814,0
+fossato01,Tony Fossas,Pitcher,Free-agency,Dominant Reliever / Closer,0,2004.0,0.008509819750383814,0
+beimejo01,Joe Beimel,Pitcher,Steroid,Dominant Reliever / Closer,0,2020.0,0.008509819750383814,0
+maholpa01,Paul Maholm,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2019.0,0.008509819750383814,0
+levinal01,Al Levine,Pitcher,Steroid,Dominant Reliever / Closer,0,2010.0,0.008509819750383814,0
+durbich01,Chad Durbin,Pitcher,Steroid,Dominant Reliever / Closer,0,2018.0,0.008509819750383814,0
+boyerbl01,Blaine Boyer,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2023.0,0.008509819750383814,0
+delucri01,Rich DeLucia,Pitcher,Free-agency,Power Hitter 2,0,2004.0,0.008509819750383814,0
+batisto01,Tony Batista,Hitter,Steroid,Power Hitter 2,0,2012.0,0.008494462993310711,0
+embreal01,Alan Embree,Pitcher,Free-agency,Dominant Reliever / Closer,0,2014.0,0.008457570873956693,0
+contrjo01,Jose Contreras,Pitcher,Steroid,Dominant Reliever / Closer,0,2018.0,0.008457570873956693,0
+pennybr01,Brad Penny,Pitcher,Steroid,Workhorse Starting Pitcher,0,2019.0,0.008457570873956693,0
+thomsjo01,John Thomson,Pitcher,Steroid,Workhorse Starting Pitcher,0,2012.0,0.008457570873956693,0
+palldo01,Donn Pall,Pitcher,Free-agency,Dominant Reliever / Closer,0,2003.0,0.008457570873956693,0
+norribu01,Bud Norris,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2023.0,0.008457570873956693,0
+perezod01,Odalis Perez,Pitcher,Steroid,Workhorse Starting Pitcher,0,2013.0,0.008457570873956693,0
+danksjo01,John Danks,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2021.0,0.008457570873956693,0
+rossty01,Tyson Ross,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2024.0,0.008457570873956693,0
+bosioch01,Chris Bosio,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2001.0,0.008457570873956693,0
+ruschgl01,Glendon Rusch,Pitcher,Steroid,Workhorse Starting Pitcher,0,2014.0,0.008457570873956693,0
+fernaal01,Alex Fernandez,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2005.0,0.008457570873956693,0
+farnsky01,Kyle Farnsworth,Pitcher,Steroid,Dominant Reliever / Closer,0,2019.0,0.008457570873956693,0
+francje01,Jeff Francis,Pitcher,Steroid,Workhorse Starting Pitcher,0,2020.0,0.008457570873956693,0
+bedarer01,Erik Bedard,Pitcher,Steroid,Workhorse Starting Pitcher,0,2019.0,0.008457570873956693,0
+lohseky01,Kyle Lohse,Pitcher,Steroid,Workhorse Starting Pitcher,0,2021.0,0.008457570873956693,0
+gardnma01,Mark Gardner,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2006.0,0.008457570873956693,0
+garzama01,Matt Garza,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2022.0,0.008457570873956693,0
+vizcalu01,Luis Vizcaino,Pitcher,Steroid,Dominant Reliever / Closer,0,2014.0,0.008457570873956693,0
+leitema01,Mark Leiter,Pitcher,Free-agency,Dominant Reliever / Closer,0,2006.0,0.008457570873956693,0
+leblawa01,Wade LeBlanc,Pitcher,Post-steroid,Power Hitter 2,0,2026.0,0.008457570873956693,0
+bankhsc01,Scott Bankhead,Pitcher,Free-agency,Power Hitter 2,0,2000.0,0.008457570873956693,0
+wasdijo01,John Wasdin,Pitcher,Steroid,Dominant Reliever / Closer,0,2012.0,0.008457570873956693,0
+weaveje01,Jeff Weaver,Pitcher,Steroid,Workhorse Starting Pitcher,0,2015.0,0.008457570873956693,0
+greggke01,Kevin Gregg,Pitcher,Steroid,Dominant Reliever / Closer,0,2020.0,0.008457570873956693,0
+kazmisc01,Scott Kazmir,Pitcher,Steroid,Workhorse Starting Pitcher,0,2026.0,0.008457570873956693,0
+ashbyan01,Andy Ashby,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2009.0,0.008457570873956693,0
+jonesbo03,Bobby Jones,Pitcher,Steroid,Workhorse Starting Pitcher,0,2007.0,0.008457570873956693,0
+guthrje01,Jeremy Guthrie,Pitcher,Steroid,Workhorse Starting Pitcher,0,2022.0,0.008457570873956693,0
+guthrma01,Mark Guthrie,Pitcher,Free-agency,Dominant Reliever / Closer,0,2008.0,0.008457570873956693,0
+jepseke01,Kevin Jepsen,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2023.0,0.008457570873956693,0
+arroybr01,Bronson Arroyo,Pitcher,Steroid,Workhorse Starting Pitcher,0,2022.0,0.008457570873956693,0
+williwo02,Woody Williams,Pitcher,Steroid,Workhorse Starting Pitcher,0,2012.0,0.008457570873956693,0
+anderbr02,Brian Anderson,Pitcher,Steroid,Workhorse Starting Pitcher,0,2010.0,0.008457570873956693,0
+holmeda01,Darren Holmes,Pitcher,Free-agency,Dominant Reliever / Closer,0,2008.0,0.008457570873956693,0
+hammaat01,Atlee Hammaker,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2000.0,0.008457570873956693,0
+hitchst01,Sterling Hitchcock,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2009.0,0.008457570873956693,0
+hernaxa01,Xavier Hernandez,Pitcher,Free-agency,Dominant Reliever / Closer,0,2003.0,0.008457570873956693,0
+hansoer01,Erik Hanson,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2003.0,0.008457570873956693,0
+vargaja01,Jason Vargas,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2024.0,0.008457570873956693,0
+grillja01,Jason Grilli,Pitcher,Steroid,Dominant Reliever / Closer,0,2022.0,0.008457570873956693,0
+trombmi01,Mike Trombley,Pitcher,Free-agency,Dominant Reliever / Closer,0,2007.0,0.008457570873956693,0
+tomkobr01,Brett Tomko,Pitcher,Steroid,Workhorse Starting Pitcher,0,2016.0,0.008457570873956693,0
+floydga01,Gavin Floyd,Pitcher,Steroid,Workhorse Starting Pitcher,0,2021.0,0.008457570873956693,0
+castifr01,Frank Castillo,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2010.0,0.008457570873956693,0
+frazito01,Todd Frazier,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.008446793901966461,0
+jonesto02,Todd Jones,Pitcher,Steroid,Dominant Reliever / Closer,0,2013.0,0.008414269321421062,0
+wickmbo01,Bob Wickman,Pitcher,Free-agency,Dominant Reliever / Closer,0,2012.0,0.008414269321421062,0
+jenkige01,Geoff Jenkins,Hitter,Steroid,Power Hitter 2,0,2013.0,0.008401992382850903,0
+whitero02,Rondell White,Hitter,Steroid,Power Hitter,0,2012.0,0.008401992382850903,0
+randajo01,Joe Randa,Hitter,Steroid,Power Hitter 2,0,2011.0,0.008401992382850903,0
+steinte01,Terry Steinbach,Hitter,Free-agency,Power Hitter 2,0,2004.0,0.008401992382850903,0
+cabreme01,Melky Cabrera,Hitter,Post-steroid,Power Hitter,0,2024.0,0.008401992382850903,0
+hernara02,Ramon Hernandez,Hitter,Steroid,Power Hitter 2,0,2018.0,0.008401992382850903,0
+reynoma01,Mark Reynolds,Hitter,Post-steroid,Power Hitter,0,2024.0,0.008401992382850903,0
+valenjo03,Jose Valentin,Hitter,Free-agency,Power Hitter,0,2012.0,0.008401992382850903,0
+guilljo01,Jose Guillen,Hitter,Steroid,Power Hitter 2,0,2015.0,0.008401992382850903,0
+choosh01,Shin-Soo Choo,Hitter,Post-steroid,Power Hitter,0,2025.0,0.008401992382850903,0
+cuddymi01,Michael Cuddyer,Hitter,Steroid,Power Hitter,0,2020.0,0.008401992382850903,0
+hayesch01,Charlie Hayes,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.008401992382850903,0
+morame01,Melvin Mora,Hitter,Steroid,Power Hitter 2,0,2016.0,0.008401992382850903,0
+seageky01,Kyle Seager,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.008401992382850903,0
+zeileto01,Todd Zeile,Hitter,Free-agency,Speed / Contact Profile,0,2009.0,0.008401992382850903,0
+righeda01,Dave Righetti,Pitcher,Free-agency,Dominant Reliever / Closer,0,2000.0,0.008189846073071948,0
+nunezab01,Abraham Nunez,Hitter,Steroid,Power Hitter 2,0,2013.0,0.008170534998041564,0
+ryanbr01,Brendan Ryan,Hitter,Post-steroid,Power Hitter 2,0,2021.0,0.008170534998041564,0
+perezto03,Tomas Perez,Hitter,Steroid,Power Hitter 2,0,2013.0,0.008170534998041564,0
+cangejo01,John Cangelosi,Hitter,Free-agency,Power Hitter 2,0,2004.0,0.008170534998041564,0
+gonzare01,Rene Gonzales,Hitter,Free-agency,Power Hitter 2,0,2002.0,0.008170534998041564,0
+denorch01,Chris Denorfia,Hitter,Post-steroid,Power Hitter 2,0,2020.0,0.008170534998041564,0
+desmoia01,Ian Desmond,Hitter,Post-steroid,Power Hitter 2,0,2024.0,0.008170534998041564,0
+rodrise01,Sean Rodriguez,Hitter,Post-steroid,Power Hitter 2,0,2025.0,0.008170534998041564,0
+nunezed02,Eduardo Nunez,Hitter,Post-steroid,Power Hitter 2,0,2025.0,0.008170534998041564,0
+hallbi03,Bill Hall,Hitter,Steroid,Power Hitter 2,0,2017.0,0.008170534998041564,0
+overbly01,Lyle Overbay,Hitter,Steroid,Power Hitter 2,0,2019.0,0.008170534998041564,0
+relafde01,Desi Relaford,Hitter,Steroid,Power Hitter 2,0,2012.0,0.008170534998041564,0
+carroja01,Jamey Carroll,Hitter,Steroid,Power Hitter 2,0,2018.0,0.008170534998041564,0
+espinal01,Alvaro Espinoza,Hitter,Free-agency,Power Hitter 2,0,2002.0,0.008170534998041564,0
+benjami01,Mike Benjamin,Hitter,Free-agency,Power Hitter 2,0,2007.0,0.008170534998041564,0
+avilaal01,Alex Avila,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.008170534998041564,0
+aybarer01,Erick Aybar,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.008170534998041564,0
+rossda01,David Ross,Hitter,Steroid,Power Hitter 2,0,2021.0,0.008170534998041564,0
+aldremi01,Mike Aldrete,Hitter,Free-agency,Power Hitter 2,0,2001.0,0.008170534998041564,0
+cirilje01,Jeff Cirillo,Hitter,Steroid,Power Hitter 2,0,2012.0,0.008166748421039205,0
+stewash01,Shannon Stewart,Hitter,Steroid,Power Hitter 2,0,2013.0,0.008166748421039205,0
+roberbi01,Bip Roberts,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.008079978185680493,0
+podsesc01,Scott Podsednik,Hitter,Steroid,Power Hitter 2,0,2017.0,0.008074541723541903,0
+thompro01,Robby Thompson,Hitter,Free-agency,Power Hitter 2,0,2001.0,0.008074541723541903,0
+youngke01,Kevin Young,Hitter,Free-agency,Power Hitter 2,0,2008.0,0.007917282742482743,0
+schoesc01,Scott Schoeneweis,Pitcher,Steroid,Power Hitter 2,0,2015.0,0.007892077021237984,0
+magadda01,Dave Magadan,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.007892077021237984,0
+cruzjo02,Jose Cruz,Hitter,Steroid,Power Hitter 2,0,2013.0,0.00783714750819426,0
+waltoje01,Jerome Walton,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.00783714750819426,0
+wilsopr01,Preston Wilson,Hitter,Steroid,Power Hitter 2,0,2012.0,0.00783714750819426,0
+paytoja01,Jay Payton,Hitter,Steroid,Power Hitter 2,0,2015.0,0.00783714750819426,0
+jacksda02,Danny Jackson,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2002.0,0.00783714750819426,0
+bereja01,Jason Bere,Pitcher,Steroid,Workhorse Starting Pitcher,0,2008.0,0.00783714750819426,0
+devermi01,Mike Devereaux,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.00783714750819426,0
+hallme01,Mel Hall,Hitter,Free-agency,Power Hitter 2,0,2001.0,0.00783714750819426,0
+kearnau01,Austin Kearns,Hitter,Steroid,Power Hitter 2,0,2018.0,0.00783714750819426,0
+schoupe01,Pete Schourek,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2006.0,0.00783714750819426,0
+merceor01,Orlando Merced,Hitter,Free-agency,Power Hitter 2,0,2008.0,0.00783714750819426,0
+hollato01,Todd Hollandsworth,Hitter,Steroid,Power Hitter 2,0,2011.0,0.00783714750819426,0
+headlch01,Chase Headley,Hitter,Post-steroid,Power Hitter 2,0,2023.0,0.00783714750819426,0
+gomesjo01,Jonny Gomes,Hitter,Steroid,Power Hitter 2,0,2020.0,0.00783714750819426,0
+basske01,Kevin Bass,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.00783714750819426,0
+francje02,Jeff Francoeur,Hitter,Post-steroid,Power Hitter 2,0,2021.0,0.00783714750819426,0
+trumbma01,Mark Trumbo,Hitter,Post-steroid,Power Hitter 2,0,2024.0,0.00783714750819426,0
+lucrojo01,Jonathan Lucroy,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00783714750819426,0
+ericksc01,Scott Erickson,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2011.0,0.00783714750819426,0
+youngdm01,Dmitri Young,Hitter,Steroid,Power Hitter 2,0,2013.0,0.007815621709743894,0
+vidrojo01,Jose Vidro,Hitter,Steroid,Power Hitter 2,0,2013.0,0.007815621709743894,0
+sanchfr01,Freddy Sanchez,Hitter,Steroid,Power Hitter 2,0,2016.0,0.007815621709743894,0
+harpebr01,Brian Harper,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.007815621709743894,0
+mathemi01,Mike Matheny,Hitter,Steroid,Power Hitter 2,0,2011.0,0.00781036171438957,0
+hardyjj01,J. J. Hardy,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.00781036171438957,0
+bellde01,Derek Bell,Hitter,Free-agency,Speed / Contact Profile,0,2006.0,0.007683113658564081,0
+wilsoda01,Dan Wilson,Hitter,Free-agency,Power Hitter 2,0,2010.0,0.00758067512103368,0
+younger03,Eric Young,Hitter,Post-steroid,Power Hitter 2,0,2023.0,0.00758067512103368,0
+ariasal01,Alex Arias,Hitter,Free-agency,Power Hitter 2,0,2007.0,0.00758067512103368,0
+alfonan01,Antonio Alfonseca,Pitcher,Steroid,Dominant Reliever / Closer,0,2012.0,0.00758067512103368,0
+wilsobo02,Bobby Wilson,Hitter,Post-steroid,Power Hitter 2,0,2024.0,0.00758067512103368,0
+thompmi02,Milt Thompson,Hitter,Free-agency,Power Hitter 2,0,2001.0,0.00758067512103368,0
+thamema01,Marcus Thames,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+willije02,Jerome Williams,Pitcher,Steroid,Dominant Reliever / Closer,0,2021.0,0.00758067512103368,0
+rosalad01,Adam Rosales,Hitter,Post-steroid,Power Hitter 2,0,2023.0,0.00758067512103368,0
+willijo03,Josh Willingham,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+schumsk01,Skip Schumaker,Hitter,Post-steroid,Power Hitter 2,0,2020.0,0.00758067512103368,0
+carmofa01,Roberto Hernandez,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2021.0,0.00758067512103368,0
+willied01,Eddie Williams,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.00758067512103368,0
+alexama02,Manny Alexander,Hitter,Free-agency,Speed / Contact Profile,0,2011.0,0.00758067512103368,0
+zaungr01,Gregg Zaun,Hitter,Steroid,Power Hitter 2,0,2015.0,0.00758067512103368,0
+rominan01,Andrew Romine,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+adamste01,Terry Adams,Pitcher,Steroid,Dominant Reliever / Closer,0,2010.0,0.00758067512103368,0
+berroge01,Geronimo Berroa,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00758067512103368,0
+wilkiri01,Rick Wilkins,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+castial01,Alberto Castillo,Hitter,Steroid,Power Hitter 2,0,2012.0,0.00758067512103368,0
+wiggity01,Ty Wigginton,Hitter,Steroid,Power Hitter 2,0,2018.0,0.00758067512103368,0
+younger01,Eric Young,Hitter,Free-agency,Power Hitter 2,0,2011.0,0.00758067512103368,0
+buterdr01,Drew Butera,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+schnebr01,Brian Schneider,Hitter,Steroid,Power Hitter 2,0,2017.0,0.00758067512103368,0
+callaal01,Alberto Callaspo,Hitter,Post-steroid,Power Hitter 2,0,2020.0,0.00758067512103368,0
+amarari01,Rich Amaral,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00758067512103368,0
+seguida01,David Segui,Hitter,Free-agency,Power Hitter 2,0,2009.0,0.00758067512103368,0
+rzepcma01,Marc Rzepczynski,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2023.0,0.00758067512103368,0
+woodwch01,Chris Woodward,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+cahiltr01,Trevor Cahill,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2026.0,0.00758067512103368,0
+saltaja01,Jarrod Saltalamacchia,Hitter,Post-steroid,Power Hitter 2,0,2023.0,0.00758067512103368,0
+alvarwi01,Wilson Alvarez,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2010.0,0.00758067512103368,0
+cadargr01,Greg Cadaret,Pitcher,Free-agency,Dominant Reliever / Closer,0,2003.0,0.00758067512103368,0
+betemwi01,Wilson Betemit,Hitter,Steroid,Power Hitter 2,0,2018.0,0.00758067512103368,0
+berryse01,Sean Berry,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00758067512103368,0
+tillmch01,Chris Tillman,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2023.0,0.00758067512103368,0
+sanchre01,Rey Sanchez,Hitter,Free-agency,Power Hitter 2,0,2010.0,0.00758067512103368,0
+wrighja02,Jaret Wright,Pitcher,Steroid,Workhorse Starting Pitcher,0,2012.0,0.00758067512103368,0
+alonsyo01,Yonder Alonso,Hitter,Post-steroid,Power Hitter 2,0,2024.0,0.00758067512103368,0
+alicelu01,Luis Alicea,Hitter,Free-agency,Power Hitter 2,0,2007.0,0.00758067512103368,0
+berryda01,Damon Berryhill,Hitter,Free-agency,Power Hitter 2,0,2002.0,0.00758067512103368,0
+byrneer01,Eric Byrnes,Hitter,Steroid,Power Hitter 2,0,2015.0,0.00758067512103368,0
+anderma02,Marlon Anderson,Hitter,Steroid,Power Hitter 2,0,2014.0,0.00758067512103368,0
+andinro01,Robert Andino,Hitter,Post-steroid,Power Hitter 2,0,2021.0,0.00758067512103368,0
+byrdma01,Marlon Byrd,Hitter,Steroid,Power Hitter,0,2021.0,0.00758067512103368,0
+wisede01,Dewayne Wise,Hitter,Steroid,Power Hitter 2,0,2018.0,0.00758067512103368,0
+byrdati01,Tim Byrdak,Pitcher,Steroid,Dominant Reliever / Closer,0,2018.0,0.00758067512103368,0
+santihe01,Hector Santiago,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2026.0,0.00758067512103368,0
+winnra01,Randy Winn,Hitter,Steroid,Power Hitter 2,0,2015.0,0.00758067512103368,0
+santira01,Ramon Santiago,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+saundjo01,Joe Saunders,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2019.0,0.00758067512103368,0
+butlebi03,Billy Butler,Hitter,Post-steroid,Power Hitter 2,0,2021.0,0.00758067512103368,0
+sweenma01,Mark Sweeney,Hitter,Steroid,Power Hitter 2,0,2013.0,0.00758067512103368,0
+blackbu02,Buddy Black,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2000.0,0.00758067512103368,0
+bielemi01,Mike Bielecki,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2002.0,0.00758067512103368,0
+vogelry01,Ryan Vogelsong,Pitcher,Steroid,Workhorse Starting Pitcher,0,2021.0,0.00758067512103368,0
+tuckemi01,Michael Tucker,Hitter,Steroid,Power Hitter 2,0,2011.0,0.00758067512103368,0
+booneaa01,Aaron Boone,Hitter,Steroid,Power Hitter 2,0,2014.0,0.00758067512103368,0
+stewach01,Chris Stewart,Hitter,Post-steroid,Power Hitter 2,0,2023.0,0.00758067512103368,0
+villoro01,Ron Villone,Pitcher,Steroid,Dominant Reliever / Closer,0,2014.0,0.00758067512103368,0
+bartlja01,Jason Bartlett,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+barremi01,Michael Barrett,Hitter,Steroid,Power Hitter 2,0,2014.0,0.00758067512103368,0
+stevele01,Lee Stevens,Hitter,Free-agency,Power Hitter 2,0,2007.0,0.00758067512103368,0
+barmecl01,Clint Barmes,Hitter,Steroid,Power Hitter 2,0,2020.0,0.00758067512103368,0
+volqued01,Edinson Volquez,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2025.0,0.00758067512103368,0
+bonifem01,Emilio Bonifacio,Hitter,Post-steroid,Power Hitter 2,0,2025.0,0.00758067512103368,0
+stanlmi02,Mike Stanley,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00758067512103368,0
+blancan01,Andres Blanco,Hitter,Steroid,Speed / Contact Profile,0,2022.0,0.00758067512103368,0
+vosbeed01,Ed Vosberg,Pitcher,Free-agency,Dominant Reliever / Closer,0,2007.0,0.00758067512103368,0
+bardjo01,Josh Bard,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+barajro01,Rod Barajas,Hitter,Steroid,Power Hitter 2,0,2017.0,0.00758067512103368,0
+spraged02,Ed Sprague,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+bennega01,Gary Bennett,Hitter,Steroid,Power Hitter 2,0,2013.0,0.00758067512103368,0
+spierbi01,Bill Spiers,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+bautida01,Danny Bautista,Hitter,Steroid,Power Hitter 2,0,2009.0,0.00758067512103368,0
+velarra01,Randy Velarde,Hitter,Free-agency,Power Hitter 2,0,2007.0,0.00758067512103368,0
+walketo04,Todd Walker,Hitter,Steroid,Power Hitter 2,0,2012.0,0.00758067512103368,0
+stynech01,Chris Stynes,Hitter,Steroid,Power Hitter 2,0,2009.0,0.00758067512103368,0
+bloomwi01,Willie Bloomquist,Hitter,Steroid,Power Hitter 2,0,2020.0,0.00758067512103368,0
+sveumda01,Dale Sveum,Hitter,Free-agency,Power Hitter 2,0,2004.0,0.00758067512103368,0
+blowemi01,Mike Blowers,Hitter,Free-agency,Power Hitter 2,0,2004.0,0.00758067512103368,0
+blumge01,Geoff Blum,Hitter,Steroid,Power Hitter 2,0,2017.0,0.00758067512103368,0
+valbulu01,Luis Valbuena,Hitter,Post-steroid,Power Hitter 2,0,2023.0,0.00758067512103368,0
+belliro01,Ronnie Belliard,Hitter,Steroid,Power Hitter 2,0,2015.0,0.00758067512103368,0
+valenja01,Javier Valentin,Hitter,Steroid,Power Hitter 2,0,2013.0,0.00758067512103368,0
+boehrbr01,Brian Boehringer,Pitcher,Steroid,Dominant Reliever / Closer,0,2009.0,0.00758067512103368,0
+sturtta01,Tanyon Sturtze,Pitcher,Steroid,Dominant Reliever / Closer,0,2013.0,0.00758067512103368,0
+beckhgo01,Gordon Beckham,Hitter,Post-steroid,Power Hitter 2,0,2024.0,0.00758067512103368,0
+stubbfr01,Franklin Stubbs,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.00758067512103368,0
+bohanbr01,Brian Bohanon,Pitcher,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+valleda01,Dave Valle,Hitter,Free-agency,Power Hitter 2,0,2001.0,0.00758067512103368,0
+vandejo02,John Vander Wal,Hitter,Free-agency,Power Hitter 2,0,2009.0,0.00758067512103368,0
+vanpoto01,Todd Van Poppel,Pitcher,Free-agency,Dominant Reliever / Closer,0,2009.0,0.00758067512103368,0
+bonesri01,Ricky Bones,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2006.0,0.00758067512103368,0
+stottto01,Todd Stottlemyre,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2007.0,0.00758067512103368,0
+stinnke01,Kelly Stinnett,Hitter,Steroid,Power Hitter 2,0,2012.0,0.00758067512103368,0
+walkene01,Neil Walker,Hitter,Post-steroid,Power Hitter 2,0,2025.0,0.00758067512103368,0
+wardda01,Daryle Ward,Hitter,Steroid,Power Hitter 2,0,2013.0,0.00758067512103368,0
+wietema01,Matt Wieters,Hitter,Post-steroid,Power Hitter 2,0,2025.0,0.00758067512103368,0
+bellhma01,Mark Bellhorn,Hitter,Steroid,Power Hitter 2,0,2012.0,0.00758067512103368,0
+slaugdo01,Don Slaught,Hitter,Free-agency,Power Hitter 2,0,2002.0,0.00758067512103368,0
+wellski01,Kip Wells,Pitcher,Steroid,Workhorse Starting Pitcher,0,2017.0,0.00758067512103368,0
+sizemgr01,Grady Sizemore,Hitter,Steroid,Power Hitter 2,0,2020.0,0.00758067512103368,0
+westbja01,Jake Westbrook,Pitcher,Steroid,Workhorse Starting Pitcher,0,2018.0,0.00758067512103368,0
+blairwi01,Willie Blair,Pitcher,Free-agency,Dominant Reliever / Closer,0,2006.0,0.00758067512103368,0
+shumpte01,Terry Shumpert,Hitter,Free-agency,Power Hitter 2,0,2008.0,0.00758067512103368,0
+avilemi01,Mike Aviles,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.00758067512103368,0
+brownem01,Emil Brown,Hitter,Steroid,Power Hitter 2,0,2014.0,0.00758067512103368,0
+shiplcr01,Craig Shipley,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.00758067512103368,0
+trachst01,Steve Trachsel,Pitcher,Steroid,Workhorse Starting Pitcher,0,2013.0,0.00758067512103368,0
+brownje01,Jerry Browne,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.00758067512103368,0
+whitema01,Mark Whiten,Hitter,Free-agency,Dominant Reliever / Closer,0,2005.0,0.00758067512103368,0
+buckjo01,John Buck,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+whiteri01,Rick White,Pitcher,Steroid,Dominant Reliever / Closer,0,2012.0,0.00758067512103368,0
+buechst01,Steve Buechele,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.00758067512103368,0
+burbada01,Dave Burba,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2009.0,0.00758067512103368,0
+widgech01,Chris Widger,Hitter,Steroid,Power Hitter 2,0,2011.0,0.00758067512103368,0
+servasc01,Scott Servais,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+slocuhe01,Heathcliff Slocumb,Pitcher,Free-agency,Dominant Reliever / Closer,0,2005.0,0.00758067512103368,0
+wehnejo01,John Wehner,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+bourjpe01,Peter Bourjos,Hitter,Post-steroid,Power Hitter 2,0,2024.0,0.00758067512103368,0
+braggda01,Darren Bragg,Hitter,Steroid,Power Hitter 2,0,2009.0,0.00758067512103368,0
+sorrepa01,Paul Sorrento,Hitter,Free-agency,Power Hitter 2,0,2004.0,0.00758067512103368,0
+wardtu01,Turner Ward,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+tatisfe01,Fernando Tatis,Hitter,Steroid,Power Hitter 2,0,2015.0,0.00758067512103368,0
+washbja01,Jarrod Washburn,Pitcher,Steroid,Workhorse Starting Pitcher,0,2014.0,0.00758067512103368,0
+sojolu01,Luis Sojo,Hitter,Free-agency,Power Hitter 2,0,2008.0,0.00758067512103368,0
+sogarer01,Eric Sogard,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+snydech02,Chris Snyder,Hitter,Steroid,Power Hitter 2,0,2018.0,0.00758067512103368,0
+bradlmi01,Milton Bradley,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+smoakju01,Justin Smoak,Hitter,Post-steroid,Power Hitter 2,0,2025.0,0.00758067512103368,0
+wegmabi01,Bill Wegman,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2000.0,0.00758067512103368,0
+bakopa01,Paul Bako,Hitter,Steroid,Power Hitter 2,0,2014.0,0.00758067512103368,0
+bakerje03,Jeff Baker,Hitter,Post-steroid,Power Hitter 2,0,2020.0,0.00758067512103368,0
+taubeed01,Ed Taubensee,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+webstle01,Lenny Webster,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00758067512103368,0
+webstmi01,Mitch Webster,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.00758067512103368,0
+smithpe02,Pete Smith,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2003.0,0.00758067512103368,0
+weeksri01,Rickie Weeks,Hitter,Steroid,Power Hitter 2,0,2022.0,0.00758067512103368,0
+branyru01,Russell Branyan,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+hattesc01,Scott Hatteberg,Hitter,Steroid,Power Hitter 2,0,2013.0,0.00758067512103368,0
+parreje01,Jeff Parrett,Pitcher,Free-agency,Dominant Reliever / Closer,0,2001.0,0.00758067512103368,0
+rodrihe02,Henry Rodriguez,Hitter,Free-agency,Power Hitter 2,0,2007.0,0.00758067512103368,0
+leyriji01,Jim Leyritz,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00758067512103368,0
+gonzaal01,Alex Gonzalez,Hitter,Steroid,Power Hitter 2,0,2011.0,0.00758067512103368,0
+gomezch02,Chris Gomez,Hitter,Steroid,Power Hitter 2,0,2013.0,0.00758067512103368,0
+gomezca01,Carlos Gomez,Hitter,Post-steroid,Speed / Contact Profile,0,2024.0,0.00758067512103368,0
+gloadro01,Ross Gload,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+girarjo01,Joe Girardi,Hitter,Free-agency,Power Hitter 2,0,2008.0,0.00758067512103368,0
+lewisma01,Mark Lewis,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+gilkebe01,Bernard Gilkey,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+gonzaal02,Alex Gonzalez,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+germaes01,Esteban German,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+liebemi01,Mike Lieberthal,Hitter,Steroid,Power Hitter 2,0,2012.0,0.00758067512103368,0
+gentrcr01,Craig Gentry,Hitter,Post-steroid,Speed / Contact Profile,0,2023.0,0.00758067512103368,0
+gaudich01,Chad Gaudin,Pitcher,Steroid,Dominant Reliever / Closer,0,2018.0,0.00758067512103368,0
+lindad01,Adam Lind,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.00758067512103368,0
+garlajo01,Jon Garland,Pitcher,Steroid,Workhorse Starting Pitcher,0,2018.0,0.00758067512103368,0
+ledeeri01,Ricky Ledee,Hitter,Steroid,Power Hitter 2,0,2012.0,0.00758067512103368,0
+lawtoma02,Matt Lawton,Hitter,Steroid,Power Hitter 2,0,2011.0,0.00758067512103368,0
+castiwe01,Welington Castillo,Hitter,Post-steroid,Power Hitter 2,0,2024.0,0.00758067512103368,0
+kubelja01,Jason Kubel,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+graffto01,Tony Graffanino,Hitter,Steroid,Power Hitter 2,0,2014.0,0.00758067512103368,0
+knorrra01,Randy Knorr,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+kotchca01,Casey Kotchman,Hitter,Steroid,Power Hitter 2,0,2018.0,0.00758067512103368,0
+kreutch01,Chad Kreuter,Hitter,Free-agency,Power Hitter 2,0,2008.0,0.00758067512103368,0
+abbotpa01,Paul Abbott,Pitcher,Free-agency,Power Hitter 2,0,2009.0,0.00758067512103368,0
+goodwto01,Tom Goodwin,Hitter,Free-agency,Power Hitter 2,0,2009.0,0.00758067512103368,0
+lairdge01,Gerald Laird,Hitter,Steroid,Power Hitter 2,0,2020.0,0.00758067512103368,0
+lavarry01,Ryan Lavarnway,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+lakerti01,Tim Laker,Hitter,Free-agency,Power Hitter 2,0,2011.0,0.00758067512103368,0
+lambmi01,Mike Lamb,Hitter,Steroid,Power Hitter 2,0,2015.0,0.00758067512103368,0
+lampkto01,Tom Lampkin,Hitter,Free-agency,Power Hitter 2,0,2007.0,0.00758067512103368,0
+langery01,Ryan Langerhans,Hitter,Steroid,Power Hitter 2,0,2018.0,0.00758067512103368,0
+larueja01,Jason LaRue,Hitter,Steroid,Power Hitter 2,0,2015.0,0.00758067512103368,0
+lavalmi01,Mike LaValliere,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.00758067512103368,0
+liriane01,Nelson Liriano,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.00758067512103368,0
+lobatjo01,Jose Lobaton,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+loducpa01,Paul Lo Duca,Hitter,Steroid,Power Hitter 2,0,2013.0,0.00758067512103368,0
+matthga02,Gary Matthews,Hitter,Steroid,Power Hitter 2,0,2015.0,0.00758067512103368,0
+forsylo01,Logan Forsythe,Hitter,Post-steroid,Power Hitter 2,0,2025.0,0.00758067512103368,0
+fordybr01,Brook Fordyce,Hitter,Steroid,Power Hitter 2,0,2009.0,0.00758067512103368,0
+martira03,Ramon Martinez,Hitter,Steroid,Power Hitter 2,0,2014.0,0.00758067512103368,0
+foleyto02,Tom Foley,Hitter,Free-agency,Speed / Contact Profile,0,2000.0,0.00758067512103368,0
+marzajo01,John Marzano,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.00758067512103368,0
+flowety01,Tyler Flowers,Hitter,Post-steroid,Power Hitter 2,0,2025.0,0.00758067512103368,0
+flahejo01,John Flaherty,Hitter,Free-agency,Power Hitter 2,0,2010.0,0.00758067512103368,0
+garcika01,Karim Garcia,Hitter,Steroid,Power Hitter 2,0,2009.0,0.00758067512103368,0
+maybica01,Cameron Maybin,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+mayde01,Derrick May,Hitter,Free-agency,Power Hitter 2,0,2004.0,0.00758067512103368,0
+fickro01,Robert Fick,Hitter,Steroid,Power Hitter 2,0,2012.0,0.00758067512103368,0
+mccaski01,Kirk McCaskill,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2001.0,0.00758067512103368,0
+mccraqu01,Quinton McCracken,Hitter,Steroid,Power Hitter 2,0,2011.0,0.00758067512103368,0
+mcdonjo03,John McDonald,Hitter,Steroid,Dominant Reliever / Closer,0,2019.0,0.00758067512103368,0
+foxch02,Chad Fox,Pitcher,Steroid,Dominant Reliever / Closer,0,2014.0,0.00758067512103368,0
+martial03,Al Martin,Hitter,Free-agency,Power Hitter 2,0,2008.0,0.00758067512103368,0
+marreel01,Eli Marrero,Hitter,Steroid,Power Hitter 2,0,2011.0,0.00758067512103368,0
+manwaki01,Kirt Manwaring,Hitter,Free-agency,Power Hitter 2,0,2004.0,0.00758067512103368,0
+maldoca01,Candy Maldonado,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.00758067512103368,0
+maddumi01,Mike Maddux,Pitcher,Free-agency,Dominant Reliever / Closer,0,2005.0,0.00758067512103368,0
+macfami01,Mike Macfarlane,Hitter,Free-agency,Power Hitter 2,0,2004.0,0.00758067512103368,0
+mabryjo01,John Mabry,Hitter,Steroid,Speed / Contact Profile,0,2012.0,0.00758067512103368,0
+lugoju01,Julio Lugo,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+ludwiry01,Ryan Ludwick,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+lopezlu02,Luis Lopez,Hitter,Steroid,Power Hitter 2,0,2010.0,0.00758067512103368,0
+gallemi01,Mike Gallego,Hitter,Free-agency,Power Hitter 2,0,2002.0,0.00758067512103368,0
+galvifr01,Freddy Galvis,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+lopezfe01,Felipe Lopez,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+lopezal02,Albie Lopez,Pitcher,Steroid,Dominant Reliever / Closer,0,2008.0,0.00758067512103368,0
+loneyja01,James Loney,Hitter,Post-steroid,Power Hitter 2,0,2021.0,0.00758067512103368,0
+garcica01,Carlos Garcia,Hitter,Free-agency,Power Hitter 2,0,2004.0,0.00758067512103368,0
+grebecr01,Craig Grebeck,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+kipnija01,Jason Kipnis,Hitter,Post-steroid,Power Hitter 2,0,2025.0,0.00758067512103368,0
+greento02,Todd Greene,Hitter,Steroid,Power Hitter 2,0,2011.0,0.00758067512103368,0
+hamilda02,Darryl Hamilton,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+hillko01,Koyie Hill,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+hockide01,Denny Hocking,Hitter,Steroid,Power Hitter 2,0,2010.0,0.00758067512103368,0
+hoilech01,Chris Hoiles,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.00758067512103368,0
+holadbr01,Bryan Holaday,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+hollida01,Dave Hollins,Hitter,Free-agency,Power Hitter 2,0,2007.0,0.00758067512103368,0
+holtbr01,Brock Holt,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+howarth01,Thomas Howard,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00758067512103368,0
+hundlto01,Todd Hundley,Hitter,Free-agency,Power Hitter 2,0,2008.0,0.00758067512103368,0
+howelja02,Jack Howell,Hitter,Free-agency,Power Hitter 2,0,2004.0,0.00758067512103368,0
+hubbatr01,Trent Hubbard,Hitter,Steroid,Power Hitter 2,0,2008.0,0.00758067512103368,0
+hudlere01,Rex Hudler,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.00758067512103368,0
+hairssc01,Scott Hairston,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+hairsje02,Jerry Hairston,Hitter,Steroid,Power Hitter 2,0,2018.0,0.00758067512103368,0
+huletti01,Tim Hulett,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.00758067512103368,0
+hillgl01,Glenallen Hill,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+hillaa01,Aaron Hill,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.00758067512103368,0
+higgibo02,Bobby Higginson,Hitter,Steroid,Power Hitter 2,0,2010.0,0.00758067512103368,0
+hammoje01,Jeffrey Hammonds,Hitter,Steroid,Power Hitter 2,0,2010.0,0.00758067512103368,0
+haneych01,Chris Haney,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2007.0,0.00758067512103368,0
+hernajo01,Jose Hernandez,Hitter,Free-agency,Power Hitter 2,0,2011.0,0.00758067512103368,0
+hanigry01,Ryan Hanigan,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.00758067512103368,0
+hanseda01,Dave Hansen,Hitter,Free-agency,Power Hitter 2,0,2010.0,0.00758067512103368,0
+hernaca01,Carlos Hernandez,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00758067512103368,0
+hermadu01,Dustin Hermanson,Pitcher,Steroid,Dominant Reliever / Closer,0,2011.0,0.00758067512103368,0
+henrydw01,Dwayne Henry,Pitcher,Free-agency,Dominant Reliever / Closer,0,2000.0,0.00758067512103368,0
+harnipe01,Pete Harnisch,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2006.0,0.00758067512103368,0
+harriwi01,Willie Harris,Hitter,Steroid,Power Hitter 2,0,2017.0,0.00758067512103368,0
+hartco01,Corey Hart,Hitter,Steroid,Power Hitter 2,0,2020.0,0.00758067512103368,0
+helmswe01,Wes Helms,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+helliri01,Rick Helling,Pitcher,Steroid,Workhorse Starting Pitcher,0,2011.0,0.00758067512103368,0
+haselbi01,Bill Haselman,Hitter,Free-agency,Power Hitter 2,0,2008.0,0.00758067512103368,0
+hundlni01,Nick Hundley,Hitter,Post-steroid,Power Hitter 2,0,2024.0,0.00758067512103368,0
+huntebr02,Brian Hunter,Hitter,Steroid,Power Hitter 2,0,2008.0,0.00758067512103368,0
+kingemi01,Mike Kingery,Hitter,Free-agency,Power Hitter 2,0,2001.0,0.00758067512103368,0
+kamiesc01,Scott Kamieniecki,Pitcher,Free-agency,Dominant Reliever / Closer,0,2005.0,0.00758067512103368,0
+guillca01,Carlos Guillen,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+guettle01,Lee Guetterman,Pitcher,Free-agency,Power Hitter 2,0,2001.0,0.00758067512103368,0
+jonesja04,Jacque Jones,Hitter,Steroid,Power Hitter 2,0,2013.0,0.00758067512103368,0
+josefe01,Felix Jose,Hitter,Free-agency,Power Hitter 2,0,2008.0,0.00758067512103368,0
+joycema01,Matt Joyce,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+gubicma01,Mark Gubicza,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2002.0,0.00758067512103368,0
+kaplega01,Gabe Kapler,Hitter,Steroid,Power Hitter 2,0,2015.0,0.00758067512103368,0
+husonje01,Jeff Huson,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00758067512103368,0
+karkoro01,Ron Karkovice,Hitter,Free-agency,Power Hitter 2,0,2002.0,0.00758067512103368,0
+kellyro01,Roberto Kelly,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00758067512103368,0
+grosske01,Kevin Gross,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2002.0,0.00758067512103368,0
+kendrky01,Kyle Kendrick,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2022.0,0.00758067512103368,0
+grimsja01,Jason Grimsley,Pitcher,Free-agency,Dominant Reliever / Closer,0,2011.0,0.00758067512103368,0
+kileda01,Darryl Kile,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2007.0,0.00758067512103368,0
+johnsre02,Reed Johnson,Hitter,Steroid,Power Hitter 2,0,2020.0,0.00758067512103368,0
+gundeer01,Eric Gunderson,Pitcher,Free-agency,Dominant Reliever / Closer,0,2005.0,0.00758067512103368,0
+johnske05,Kelly Johnson,Hitter,Post-steroid,Power Hitter 2,0,2021.0,0.00758067512103368,0
+johnsda06,Dan Johnson,Hitter,Post-steroid,Power Hitter 2,0,2020.0,0.00758067512103368,0
+gutiefr01,Franklin Gutierrez,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.00758067512103368,0
+jeffegr01,Gregg Jefferies,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00758067512103368,0
+jarvike01,Kevin Jarvis,Pitcher,Steroid,Workhorse Starting Pitcher,0,2011.0,0.00758067512103368,0
+jamesdi01,Dion James,Hitter,Free-agency,Power Hitter 2,0,2001.0,0.00758067512103368,0
+jamesch02,Chris James,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.00758067512103368,0
+jahajo01,John Jaha,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+gutieri01,Ricky Gutierrez,Hitter,Steroid,Power Hitter 2,0,2009.0,0.00758067512103368,0
+jacksda04,Damian Jackson,Hitter,Steroid,Power Hitter 2,0,2011.0,0.00758067512103368,0
+izturma01,Maicer Izturis,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+izturce01,Cesar Izturis,Hitter,Steroid,Power Hitter 2,0,2018.0,0.00758067512103368,0
+incavpe01,Pete Incaviglia,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.00758067512103368,0
+gwynnch01,Chris Gwynn,Hitter,Free-agency,Power Hitter 2,0,2001.0,0.00758067512103368,0
+iannech01,Chris Iannetta,Hitter,Post-steroid,Power Hitter 2,0,2024.0,0.00758067512103368,0
+fermife01,Felix Fermin,Hitter,Free-agency,Power Hitter 2,0,2001.0,0.00758067512103368,0
+felizpe01,Pedro Feliz,Hitter,Steroid,Power Hitter 2,0,2015.0,0.00758067512103368,0
+mcgowdu01,Dustin McGowan,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2022.0,0.00758067512103368,0
+correke01,Kevin Correia,Pitcher,Steroid,Workhorse Starting Pitcher,0,2020.0,0.00758067512103368,0
+custja01,Jack Cust,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+curtich01,Chad Curtis,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+cummimi01,Midre Cummings,Hitter,Steroid,Power Hitter 2,0,2010.0,0.00758067512103368,0
+pichahi01,Hipolito Pichardo,Pitcher,Free-agency,Dominant Reliever / Closer,0,2007.0,0.00758067512103368,0
+credejo01,Joe Crede,Hitter,Steroid,Power Hitter 2,0,2014.0,0.00758067512103368,0
+ponsosi01,Sidney Ponson,Pitcher,Steroid,Workhorse Starting Pitcher,0,2014.0,0.00758067512103368,0
+portuma01,Mark Portugal,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2004.0,0.00758067512103368,0
+colomje01,Jesus Colome,Pitcher,Steroid,Dominant Reliever / Closer,0,2015.0,0.00758067512103368,0
+cordewi01,Wil Cordero,Hitter,Free-agency,Power Hitter 2,0,2010.0,0.00758067512103368,0
+coraal01,Alex Cora,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+pradoma01,Martin Prado,Hitter,Post-steroid,Power Hitter 2,0,2024.0,0.00758067512103368,0
+prattto02,Todd Pratt,Hitter,Free-agency,Power Hitter 2,0,2011.0,0.00758067512103368,0
+pridecu01,Curtis Pride,Hitter,Steroid,Power Hitter 2,0,2011.0,0.00758067512103368,0
+cookaa01,Aaron Cook,Pitcher,Steroid,Workhorse Starting Pitcher,0,2017.0,0.00758067512103368,0
+perryge01,Gerald Perry,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.00758067512103368,0
+daalom01,Omar Daal,Pitcher,Steroid,Workhorse Starting Pitcher,0,2008.0,0.00758067512103368,0
+perezhe01,Hernan Perez,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+perezed02,Eddie Perez,Hitter,Steroid,Power Hitter 2,0,2010.0,0.00758067512103368,0
+perezed01,Eduardo Perez,Hitter,Steroid,Power Hitter 2,0,2011.0,0.00758067512103368,0
+pennicl01,Cliff Pennington,Hitter,Post-steroid,Power Hitter 2,0,2023.0,0.00758067512103368,0
+davisdo02,Doug Davis,Pitcher,Steroid,Workhorse Starting Pitcher,0,2016.0,0.00758067512103368,0
+davisra01,Rajai Davis,Hitter,Post-steroid,Power Hitter 2,0,2024.0,0.00758067512103368,0
+deazaal01,Alejandro De Aza,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.00758067512103368,0
+penabr01,Brayan Peña,Hitter,Post-steroid,Power Hitter 2,0,2021.0,0.00758067512103368,0
+deerro01,Rob Deer,Hitter,Free-agency,Power Hitter 2,0,2001.0,0.00758067512103368,0
+pelfrmi01,Mike Pelfrey,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2022.0,0.00758067512103368,0
+dejeami01,Mike DeJean,Pitcher,Steroid,Dominant Reliever / Closer,0,2011.0,0.00758067512103368,0
+delarjo01,Jorge De La Rosa,Pitcher,Steroid,Workhorse Starting Pitcher,0,2023.0,0.00758067512103368,0
+patteco01,Corey Patterson,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+delluda01,David Dellucci,Hitter,Steroid,Power Hitter 2,0,2014.0,0.00758067512103368,0
+parrage01,Gerardo Parra,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+puntoni01,Nick Punto,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+colesda01,Darnell Coles,Hitter,Free-agency,Power Hitter 2,0,2002.0,0.00758067512103368,0
+paquecr01,Craig Paquette,Hitter,Steroid,Power Hitter 2,0,2008.0,0.00758067512103368,0
+ripkebi01,Billy Ripken,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.00758067512103368,0
+chatwty01,Tyler Chatwood,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2026.0,0.00758067512103368,0
+reynoar02,Armando Reynoso,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2007.0,0.00758067512103368,0
+cervefr01,Francisco Cervelli,Hitter,Post-steroid,Power Hitter 2,0,2025.0,0.00758067512103368,0
+cedenro02,Ronny Cedeno,Hitter,Post-steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+richacl01,Clayton Richard,Pitcher,Post-steroid,Workhorse Starting Pitcher,0,2024.0,0.00758067512103368,0
+cedenro01,Roger Cedeno,Hitter,Steroid,Power Hitter 2,0,2010.0,0.00758067512103368,0
+catalfr01,Frank Catalanotto,Hitter,Steroid,Power Hitter 2,0,2015.0,0.00758067512103368,0
+quinthu01,Humberto Quintero,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+riverlu01,Luis Rivera,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.00758067512103368,0
+castrst01,Starlin Castro,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+riverre01,Rene Rivera,Hitter,Steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+roberbr01,Brian Roberts,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+roberda07,Dave Roberts,Hitter,Steroid,Power Hitter 2,0,2013.0,0.00758067512103368,0
+castrra01,Ramon Castro,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+chaveen01,Endy Chavez,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+chavera01,Raul Chavez,Hitter,Steroid,Power Hitter 2,0,2014.0,0.00758067512103368,0
+reedjo01,Jody Reed,Hitter,Free-agency,Power Hitter 2,0,2002.0,0.00758067512103368,0
+redmomi01,Mike Redmond,Hitter,Steroid,Power Hitter 2,0,2015.0,0.00758067512103368,0
+redmama01,Mark Redman,Pitcher,Steroid,Workhorse Starting Pitcher,0,2013.0,0.00758067512103368,0
+rebouje01,Jeff Reboulet,Hitter,Free-agency,Power Hitter 2,0,2008.0,0.00758067512103368,0
+readyra01,Randy Ready,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.00758067512103368,0
+rasmuco01,Colby Rasmus,Hitter,Post-steroid,Power Hitter 2,0,2023.0,0.00758067512103368,0
+rapppa01,Pat Rapp,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2006.0,0.00758067512103368,0
+ransoco01,Cody Ransom,Hitter,Steroid,Power Hitter 2,0,2018.0,0.00758067512103368,0
+ramoswi01,Wilson Ramos,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+chrisja01,Jason Christiansen,Pitcher,Steroid,Dominant Reliever / Closer,0,2010.0,0.00758067512103368,0
+clarkda05,Dave Clark,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.00758067512103368,0
+clarkma01,Mark Clark,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2005.0,0.00758067512103368,0
+colbrgr01,Greg Colbrunn,Hitter,Free-agency,Power Hitter 2,0,2009.0,0.00758067512103368,0
+raburry01,Ryan Raburn,Hitter,Steroid,Power Hitter 2,0,2022.0,0.00758067512103368,0
+quirogu01,Guillermo Quiroz,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+parenma01,Mark Parent,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.00758067512103368,0
+palmeor01,Orlando Palmeiro,Hitter,Steroid,Power Hitter 2,0,2012.0,0.00758067512103368,0
+fasansa01,Sal Fasano,Hitter,Steroid,Power Hitter 2,0,2013.0,0.00758067512103368,0
+mordemi01,Mike Mordecai,Hitter,Steroid,Power Hitter 2,0,2010.0,0.00758067512103368,0
+moellch01,Chad Moeller,Hitter,Steroid,Power Hitter 2,0,2015.0,0.00758067512103368,0
+molinjo01,Jose Molina,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+montemi01,Miguel Montero,Hitter,Post-steroid,Power Hitter 2,0,2023.0,0.00758067512103368,0
+mooremi01,Mike Moore,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2000.0,0.00758067512103368,0
+moralfr01,Franklin Morales,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2021.0,0.00758067512103368,0
+moranmi01,Mickey Morandini,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00758067512103368,0
+encarju01,Juan Encarnacion,Hitter,Steroid,Power Hitter 2,0,2012.0,0.00758067512103368,0
+eisenji01,Jim Eisenreich,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.00758067512103368,0
+morrilo01,Logan Morrison,Hitter,Post-steroid,Power Hitter 2,0,2025.0,0.00758067512103368,0
+elsteke01,Kevin Elster,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00758067512103368,0
+morsemi01,Mike Morse,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.00758067512103368,0
+mossbr01,Brandon Moss,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.00758067512103368,0
+ellisma01,Mark Ellis,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+ellisaj01,A. J. Ellis,Hitter,Post-steroid,Power Hitter 2,0,2023.0,0.00758067512103368,0
+moehlbr01,Brian Moehler,Pitcher,Steroid,Workhorse Starting Pitcher,0,2015.0,0.00758067512103368,0
+mlickda01,Dave Mlicki,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2007.0,0.00758067512103368,0
+escobyu01,Yunel Escobar,Hitter,Post-steroid,Power Hitter 2,0,2022.0,0.00758067512103368,0
+mirabdo01,Doug Mirabelli,Hitter,Steroid,Power Hitter 2,0,2012.0,0.00758067512103368,0
+estessh01,Shawn Estes,Pitcher,Steroid,Workhorse Starting Pitcher,0,2013.0,0.00758067512103368,0
+millsal01,Alan Mills,Pitcher,Free-agency,Dominant Reliever / Closer,0,2006.0,0.00758067512103368,0
+milletr02,Trever Miller,Pitcher,Steroid,Dominant Reliever / Closer,0,2016.0,0.00758067512103368,0
+milleda02,Damian Miller,Hitter,Steroid,Power Hitter 2,0,2012.0,0.00758067512103368,0
+milleco01,Corky Miller,Hitter,Steroid,Power Hitter 2,0,2018.0,0.00758067512103368,0
+mientdo01,Doug Mientkiewicz,Hitter,Steroid,Power Hitter 2,0,2014.0,0.00758067512103368,0
+michaja01,Jason Michaels,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+evelada01,Dana Eveland,Pitcher,Post-steroid,Dominant Reliever / Closer,0,2021.0,0.00758067512103368,0
+everead01,Adam Everett,Hitter,Steroid,Power Hitter 2,0,2016.0,0.00758067512103368,0
+mercejo03,Jordy Mercer,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+mechegi01,Gil Meche,Pitcher,Steroid,Workhorse Starting Pitcher,0,2015.0,0.00758067512103368,0
+mcraebr01,Brian McRae,Hitter,Free-agency,Power Hitter 2,0,2004.0,0.00758067512103368,0
+mclouna01,Nate McLouth,Hitter,Post-steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+elartsc01,Scott Elarton,Pitcher,Steroid,Workhorse Starting Pitcher,0,2013.0,0.00758067512103368,0
+eilanda01,Dave Eiland,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2005.0,0.00758067512103368,0
+derosma01,Mark DeRosa,Hitter,Steroid,Power Hitter 2,0,2018.0,0.00758067512103368,0
+orsuljo01,Joe Orsulak,Hitter,Free-agency,Power Hitter 2,0,2002.0,0.00758067512103368,0
+olivejo01,Joe Oliver,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+olivomi01,Miguel Olivo,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+diazma02,Matt Diaz,Hitter,Steroid,Power Hitter 2,0,2018.0,0.00758067512103368,0
+diazei01,Einar Diaz,Hitter,Steroid,Power Hitter 2,0,2011.0,0.00758067512103368,0
+oquenjo01,Jose Oquendo,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.00758067512103368,0
+desseel01,Elmer Dessens,Pitcher,Steroid,Workhorse Starting Pitcher,0,2015.0,0.00758067512103368,0
+ortizra01,Ramon Ortiz,Pitcher,Steroid,Workhorse Starting Pitcher,0,2018.0,0.00758067512103368,0
+eatonad01,Adam Eaton,Pitcher,Steroid,Workhorse Starting Pitcher,0,2014.0,0.00758067512103368,0
+ortizru01,Russ Ortiz,Pitcher,Steroid,Workhorse Starting Pitcher,0,2015.0,0.00758067512103368,0
+osikke01,Keith Osik,Hitter,Steroid,Speed / Contact Profile,0,2010.0,0.00758067512103368,0
+deshaji01,Jim Deshaies,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2000.0,0.00758067512103368,0
+owensp01,Spike Owen,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.00758067512103368,0
+paglimi01,Mike Pagliarulo,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.00758067512103368,0
+pagnoto01,Tom Pagnozzi,Hitter,Free-agency,Power Hitter 2,0,2003.0,0.00758067512103368,0
+difelmi01,Mike Difelice,Hitter,Steroid,Power Hitter 2,0,2013.0,0.00758067512103368,0
+disarga01,Gary Disarcina,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00758067512103368,0
+oleartr01,Troy O'Leary,Hitter,Steroid,Power Hitter 2,0,2008.0,0.00758067512103368,0
+dobbsgr01,Greg Dobbs,Hitter,Steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+ohkato01,Tomo Ohka,Pitcher,Steroid,Workhorse Starting Pitcher,0,2014.0,0.00758067512103368,0
+doumiry01,Ryan Doumit,Hitter,Post-steroid,Power Hitter 2,0,2019.0,0.00758067512103368,0
+obriech01,Charlie O'Brien,Hitter,Free-agency,Power Hitter 2,0,2005.0,0.00758067512103368,0
+nortogr01,Greg Norton,Hitter,Steroid,Power Hitter 2,0,2014.0,0.00758067512103368,0
+duceyro01,Rob Ducey,Hitter,Free-agency,Power Hitter 2,0,2006.0,0.00758067512103368,0
+dudalu01,Lucas Duda,Hitter,Post-steroid,Power Hitter 2,0,2024.0,0.00758067512103368,0
+nokesma01,Matt Nokes,Hitter,Free-agency,Power Hitter 2,0,2000.0,0.00758067512103368,0
+nixla01,Laynce Nix,Hitter,Steroid,Power Hitter 2,0,2018.0,0.00758067512103368,0
+nitkocj01,C. J. Nitkowski,Pitcher,Steroid,Dominant Reliever / Closer,0,2010.0,0.00758067512103368,0
+nievewi01,Wil Nieves,Hitter,Steroid,Power Hitter 2,0,2020.0,0.00758067512103368,0
+navarja01,Jaime Navarro,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2005.0,0.00758067512103368,0
+navardi01,Dioner Navarro,Hitter,Steroid,Power Hitter 2,0,2021.0,0.00758067512103368,0
+dysonja01,Jarrod Dyson,Hitter,Post-steroid,Power Hitter 2,0,2026.0,0.00758067512103368,0
+abbotji01,Jim Abbott,Pitcher,Free-agency,Workhorse Starting Pitcher,0,2004.0,0.00758067512103368,0

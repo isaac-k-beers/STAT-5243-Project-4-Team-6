@@ -1,0 +1,21 @@
+feature,vif,interpretation
+bat_RBI,108.856,high — regularize
+bat_H,47.033,high — regularize
+pit_IP,41.066,high — regularize
+pit_W,39.551,high — regularize
+bat_HR,37.052,high — regularize
+allstar_years,27.314,high — regularize
+allstar_games,26.192,high — regularize
+bat_BB,15.459,high — regularize
+n_mlb_seasons,9.009,moderate
+career_span_years,7.659,moderate
+award_total,6.704,moderate
+pit_SO,5.637,moderate
+bat_SO,4.976,acceptable
+award_unique,3.721,acceptable
+bat_mean_OPS_plus_proxy,3.197,acceptable
+bat_SB,2.534,acceptable
+bat_max_OPS_plus_proxy,2.084,acceptable
+award_mvp_count,1.566,acceptable
+award_gold_glove_count,1.552,acceptable
+pit_max_ERA_plus_proxy,1.518,acceptable

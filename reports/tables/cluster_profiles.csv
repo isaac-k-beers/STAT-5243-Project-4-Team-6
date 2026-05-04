@@ -1,0 +1,6 @@
+cluster_id,cluster_label,players,hof_rate,median_hr,median_ops,median_wins,median_saves,median_awards,median_allstar
+0.0,Power Hitter,529,0.3005671077504726,224.0,0.8057075047347113,0.0,0.0,8.0,4.0
+1.0,Dominant Reliever / Closer,463,0.019438444924406047,0.0,0.2857142857142857,43.0,47.0,1.0,2.0
+2.0,Speed / Contact Profile,30,0.03333333333333333,37.0,0.7138900135525625,0.0,0.0,3.0,2.0
+3.0,Power Hitter 2,1912,0.02092050209205021,38.0,0.7036643075276322,1.0,0.0,1.0,1.0
+4.0,Workhorse Starting Pitcher,804,0.08955223880597014,1.0,0.3992237690765925,121.0,5.0,2.0,2.0

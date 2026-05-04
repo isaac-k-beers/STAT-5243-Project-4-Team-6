@@ -1,0 +1,5 @@
+variant,path,n_rows,n_continuous_features,n_binary_features,n_total_features
+raw,data/processed/model_matrix_raw.csv,3738,216,30,246
+standardized,data/processed/model_matrix_standardized.csv,3738,216,30,246
+minmax,data/processed/model_matrix_minmax.csv,3738,216,30,246
+power,data/processed/model_matrix_power.csv,3738,216,30,246
