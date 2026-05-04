@@ -5,7 +5,7 @@
   "train_positives": 232,
   "test_positives": 49,
   "best_model": "gradient_boosting",
-  "best_holdout_pr_auc": 0.7211702397979636,
-  "best_holdout_roc_auc": 0.9895836734693877,
-  "features_used": 254
+  "best_holdout_pr_auc": 0.7272813794700826,
+  "best_holdout_roc_auc": 0.9898448979591837,
+  "features_used": 244
 }
