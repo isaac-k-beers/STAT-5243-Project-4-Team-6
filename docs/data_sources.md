@@ -1,60 +1,60 @@
 # Data Sources
 
-This project deliberately combines four data sources. Multi-source acquisition with both relational bulk data and live web scraping.
+## Overview
 
----
+The final rerun uses four source types: full SABR/Lahman, Kaggle, pybaseball, and BeautifulSoup. The source manifest confirms that the main modeling tables are taken from SABR/Lahman in the final rerun.
 
-## 1. SABR / Lahman 1871–2025 (primary source)
+## 1. SABR / Lahman 1871-2025 primary source
 
-**Location:** `data/raw/sabr_lahman/` — 27 CSV files, the full Sean Lahman / SABR release through the 2025 season.
+**Location:** `data/raw/sabr_lahman/`
 
-The runnable pipeline uses **SABR / Lahman People.csv as the updated biography / master table**, mapped to the Kaggle-style `Master.csv` filename inside `data/raw/analysis_input/`. All other shared tables (`Batting.csv`, `Pitching.csv`, `Fielding.csv`, `HallOfFame.csv`, `AwardsPlayers.csv`, `AwardsSharePlayers.csv`, `AllstarFull.csv`, `Salaries.csv`, `Teams.csv`, `BattingPost.csv`, `PitchingPost.csv`, `SeriesPost.csv`, `FieldingOF.csv`) are also taken from the SABR 2025 release for currency, and `Appearances.csv` (which was unavailable on Kaggle) is now present and used.
+The full SABR/Lahman release contains 27 CSV files. In the final rerun, `scripts/01a_data_acquisition_part1.py` builds `data/raw/analysis_input/` from the SABR/Lahman tables. `People.csv` is mapped to `Master.csv` so the rest of the project can use a consistent table name.
 
-Tables used in the pipeline:
+Important source rows from the final manifest:
 
-- `People.csv` → `Master.csv` (player biographies, debut/retirement dates, height, weight, handedness, birth country)
-- `Batting.csv` (career batting at player-season-stint granularity)
-- `Pitching.csv` (career pitching)
-- `Appearances.csv` (canonical source for primary position; pre-aggregated by player-year with one column per fielding position) + `Fielding.csv` (counts and fielding percentages; serves as a fallback when Appearances is unavailable)
-- `HallOfFame.csv` (target variable construction)
-- `AwardsPlayers.csv` + `AwardsSharePlayers.csv` (MVP / Cy Young / Gold Glove counts and award shares)
-- `AllstarFull.csv` (per-season All-Star appearance count, career All-Star total)
-- `Salaries.csv` (excluded from features but used for descriptive analysis)
-- `Teams.csv` (team-level postseason indicators)
-- `BattingPost.csv` + `PitchingPost.csv` + `SeriesPost.csv` (postseason performance)
-- `FieldingOF.csv` (outfield position split: LF / CF / RF games)
+| table                  | status   | source_used   |   rows |   min_year |   max_year |
+|:-----------------------|:---------|:--------------|-------:|-----------:|-----------:|
+| Master.csv             | ready    | SABR/Lahman   |  24270 |        nan |        nan |
+| Batting.csv            | ready    | SABR/Lahman   | 128598 |       1871 |       2025 |
+| Pitching.csv           | ready    | SABR/Lahman   |  57630 |       1871 |       2025 |
+| Fielding.csv           | ready    | SABR/Lahman   | 174332 |       1871 |       2025 |
+| HallOfFame.csv         | ready    | SABR/Lahman   |   6426 |       1936 |       2026 |
+| AllstarFull.csv        | ready    | SABR/Lahman   |   6425 |       1933 |       2025 |
+| AwardsPlayers.csv      | ready    | SABR/Lahman   |  12667 |       1877 |       2025 |
+| AwardsSharePlayers.csv | ready    | SABR/Lahman   |   7613 |       1911 |       2025 |
+| Salaries.csv           | ready    | SABR/Lahman   |  26428 |       1985 |       2016 |
+| Teams.csv              | ready    | SABR/Lahman   |   3614 |       1871 |       2025 |
+| BattingPost.csv        | ready    | SABR/Lahman   |  18687 |       1884 |       2025 |
+| PitchingPost.csv       | ready    | SABR/Lahman   |   7474 |       1884 |       2025 |
+| FieldingOF.csv         | ready    | SABR/Lahman   |  12028 |       1871 |       1955 |
+| SeriesPost.csv         | ready    | SABR/Lahman   |    440 |       1884 |       2025 |
+| Appearances.csv        | ready    | SABR/Lahman   | 128512 |       1871 |       2025 |
+| FieldingPost.csv       | ready    | SABR/Lahman   |  17934 |       1903 |       2025 |
+| TeamsFranchises.csv    | ready    | SABR/Lahman   |    203 |        nan |        nan |
+| TeamsHalf.csv          | ready    | SABR/Lahman   |    142 |       1892 |       1981 |
 
----
-
-## 2. Kaggle Baseball Databank (backup / audit source)
+## 2. Kaggle Baseball Databank backup source
 
 **Location:** `data/raw/kaggle/`
 
-The original Kaggle Baseball Databank (1871–2015) is preserved as a backup and audit source. The pipeline does not read directly from this folder once SABR data is loaded, but keeping the Kaggle CSVs allows reviewers to reproduce the older project state and to verify that the SABR upgrade introduced no regressions.
+The Kaggle data are preserved as an audit and backup source. The current final run does not rely on Kaggle for the main analysis tables because full SABR/Lahman files are available.
 
----
-
-## 3. pybaseball (modern-era supplement)
+## 3. pybaseball external acquisition
 
 **Location:** `data/raw/pybaseball/`
-**Script:** `scripts/01a_data_acquisition_part1.py`
 
-The `pybaseball` Python package wraps web scraping of Baseball-Reference, FanGraphs, and Baseball Savant. We use it for:
+The final run saved pybaseball examples: a player-ID lookup output and a small Statcast sample. These files demonstrate programmatic acquisition from a modern baseball data package. They are used as supplemental data-collection evidence rather than as core predictors in the final Hall of Fame model.
 
-- A `playerid_lookup` example showing the cross-source ID crosswalk (Lahman `playerID` ↔ MLBAM ID ↔ FanGraphs ID).
-- A Statcast pitch-level sample (one day in 2015) demonstrating the modern pitch-tracking data layer that did not exist in the original Lahman releases.
-
----
-
-## 4. BeautifulSoup web scrape (Hall of Fame future eligibles)
+## 4. BeautifulSoup web scrape
 
 **Location:** `data/raw/scraped/`
-**Script:** `scripts/01a_data_acquisition_part1.py`
 
-A small, focused BeautifulSoup scrape of `https://baseballhall.org/hall-of-fame/future-eligibles`. This page lists currently active or recently retired players who will become Hall-eligible in the next five years. In the current reproducible run, this scrape is used as a semi-structured external-source acquisition artifact and as a future extension source. The R Shiny app itself reads the precomputed `app/model_predictions.csv` table generated by the Python modeling pipeline.
+The final run saved a focused scrape of the Baseball Hall of Fame Future Eligibles page. The scrape produced 142 text rows. It is used as semi-structured web-scraping evidence and a future-extension source. The Shiny app itself reads `app/model_predictions.csv`, not the scraped page directly.
 
----
+## Source manifest files
 
-## Source manifest
-
-`reports/tables/part1_source_manifest.csv` and `data/raw/source_manifest.json` track exactly which file came from which source, to support reproducibility audits during grading.
+| File | Purpose |
+|---|---|
+| `reports/tables/part1_source_manifest.csv` | Shows which source was used for each analysis table. |
+| `reports/tables/part1_external_source_status.csv` | Shows pybaseball and BeautifulSoup acquisition status. |
+| `data/raw/source_manifest.json` | JSON version of the source manifest. |

@@ -1,71 +1,45 @@
 # Data Dictionary
 
-## Data Source
+The project uses a player-level modeling design. The raw SABR/Lahman tables are first reconciled into `data/raw/analysis_input/`, then aggregated into one row per player.
 
-This project uses the Baseball Databank / Lahman baseball dataset downloaded from Kaggle.
+## Primary processed files
 
-## Raw Tables Used
+| File | Actual shape | Description |
+|---|---:|---|
+| `data/processed/player_features_base.csv` | 24,270 rows × 260 columns | Cleaned player-level feature table before clustering. |
+| `data/processed/player_features_with_archetypes.csv` | 24,270 rows × 270 columns | Final modeling dataset with cluster labels, PCA coordinates, and cluster-distance features. |
+| `data/processed/model_predictions_all_eligible.csv` | 3,738 rows × 21 columns | Final predictions for all players in the eligible modeling pool. |
+| `app/model_predictions.csv` | 3,738 rows × 21 columns | Copy of prediction output used by the R Shiny app. |
 
-| Table | Purpose |
+## Target and eligibility fields
+
+| Field | Meaning |
 |---|---|
-| `Master.csv` | Player demographic information |
-| `Batting.csv` | Player batting statistics by season/team |
-| `Salaries.csv` | Player salary information |
-| `HallOfFame.csv` | Hall of Fame voting and induction data |
-| `Pitching.csv` | Loaded for future modeling/team use |
-| `Fielding.csv` | Loaded for future modeling/team use |
-| `Teams.csv` | Loaded for future team/context features |
-| `AwardsPlayers.csv` | Loaded for future award-related features |
-| `AllstarFull.csv` | Loaded for future All-Star related features |
+| `inducted` | Binary target: 1 if the player was inducted into the Hall of Fame, 0 otherwise. |
+| `is_eligible` | Eligibility indicator based on career length and retirement timing. |
+| `model_eligible_pool` | Modeling-pool indicator; includes eligible non-inducted players and inducted players. |
+| `eligibility_year` | Approximate first eligibility year, defined using the five-year retirement rule. |
 
-## Unit of Analysis
+## Main feature groups
 
-The cleaned dataset is structured at the **player-year level**. Each row represents one MLB player’s aggregated performance in one season.
-
-## Cleaning and Preparation Decisions
-
-- Batting statistics were aggregated across multiple team stints within the same season.
-- Players with missing or zero at-bats were removed because batting rate statistics would be undefined.
-- Players with fewer than 50 at-bats in a season were removed to reduce noise from extremely small samples.
-- Missing salary values were retained because salary data is not available for all historical seasons.
-- Hall of Fame induction was converted into a binary indicator.
-- Infinite values from rate-stat calculations were replaced with missing values.
-
-## Engineered Features
-
-| Feature | Definition |
-|---|---|
-| `age` | `yearID - birthYear` |
-| `1B` | Singles, calculated as `H - 2B - 3B - HR` |
-| `BA` | Batting average, `H / AB` |
-| `OBP_proxy` | Approximate on-base percentage |
-| `SLG` | Slugging percentage |
-| `OPS_proxy` | `OBP_proxy + SLG` |
-| `HR_rate` | Home runs per at-bat |
-| `BB_rate` | Walks per at-bat |
-| `SO_rate` | Strikeouts per at-bat |
-| `RBI_rate` | Runs batted in per at-bat |
-| `SB_rate` | Stolen bases per at-bat |
-| `career_season_number` | Player’s season count up to that year |
-| `career_longevity` | Number of seasons in the cleaned dataset |
-| `career_AB`, `career_H`, `career_HR`, etc. | Cumulative career totals through the current season |
-
-## Target Variables
-
-| Target | Type | Definition |
+| Group | Examples | Interpretation |
 |---|---|---|
-| `BA_next` | Regression | Player’s batting average in the following season |
-| `HR_next` | Regression | Player’s home runs in the following season |
-| `OPS_next` | Regression | Player’s OPS proxy in the following season |
-| `power_hitter_next` | Classification | `1` if player hits at least 20 HR next season, else `0` |
+| Biographical | `height`, `weight`, `bmi`, `debut_age`, `final_age`, `birthCountry`, `bats`, `throws` | Player background and physical profile. |
+| Career batting | `bat_H`, `bat_HR`, `bat_RBI`, `bat_PA`, `bat_OPS`, `bat_mean_OPS_plus_proxy` | Offensive production and era-adjusted batting quality. |
+| Career pitching | `pit_W`, `pit_SO`, `pit_SV`, `pit_ERA`, `pit_K9`, `pit_mean_ERA_plus_proxy` | Pitching volume, run prevention, strikeout ability, and era-adjusted pitching quality. |
+| Peak performance | 3-year and 5-year peak features | Captures short-run dominance, not only career accumulation. |
+| Awards and recognition | `award_total`, `award_all_star_mvp_count`, `awardshare_rows`, `allstar_years` | Historical recognition by writers, leagues, and fans. |
+| Postseason | postseason batting and pitching summaries | Playoff performance signals. |
+| Position and role | `primary_position`, `primary_role`, position game counts | Separates hitters, pitchers, and two-way players. |
+| Archetype features | `cluster_id`, `cluster_label`, `pca1`, `pca2`, `cluster_dist_*` | Unsupervised career-type features created from clustering. |
 
-## Output Files
+## Preprocessing matrices
 
-| File | Description |
-|---|---|
-| `data/processed/master_player_features.parquet` | Full cleaned player-year dataset |
-| `data/processed/modeling_player_features.parquet` | Modeling-ready subset with valid next-season targets |
+| File | Actual shape | Notes |
+|---|---:|---|
+| `model_matrix_raw.csv` | 3,738 rows × 248 columns | Encoded raw modeling matrix. |
+| `model_matrix_standardized.csv` | 3,738 rows × 248 columns | Numeric variables standardized. |
+| `model_matrix_minmax.csv` | 3,738 rows × 248 columns | Numeric variables min-max scaled. |
+| `model_matrix_power.csv` | 3,738 rows × 248 columns | Power-transformed numeric variables. |
 
-## Leakage Prevention
-
-Next-season targets were created using player-level group shifting. This means features from season `t` are used to predict outcomes from season `t+1`, preventing same-season target leakage.
+The `scaled_variants_manifest.csv` reports 246 engineered feature columns because the CSV matrix files also include identifier/target columns.
